@@ -17,6 +17,8 @@ The existing Study website reads these files directly. No access to a private re
 
 The 28 previously reviewed records and their 2024 onward event history are preserved. The other 450 schools initially have directory facts and explicit historical research gaps. Missing values are unknown, never invented. A successful crawler fetch is not manual verification of dates or registration availability. All detected notices require review before promotion to the reviewed events array.
 
+An owner-supplied academic compilation enriches 439 matched schools: 425 schools now have current unofficial reference bands, 279 have imported progression claims and 263 have school-specific subject-statistic claims. Imported numbers retain actual cohorts, approximation wording and a school-verification-pending status. Entry thresholds, university offers, actual destinations, combined degree/subdegree measures and Hong Kong benchmarks are kept separate. Owner band corrections and all earlier event evidence are preserved. See [academic provenance and audit](docs/ACADEMIC-DATA.md).
+
 ## Schedule and zero GitHub charges
 
 The public workflow runs daily at approximately 10:00 Hong Kong time, with a separate deeper run on Monday at 13:00 Hong Kong time. GitHub can delay scheduled jobs. Daily runs check a bounded set of key pages for every school, checkpoint after each 50-school batch and resume fairly after a deadline. Deeper runs rotate additional sources. Historical candidate evidence is preserved when a source changes or becomes inaccessible.

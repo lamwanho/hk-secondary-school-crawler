@@ -7,6 +7,7 @@ No network access occurs during a build. See ROSTER.md for scope and provenance.
 import argparse
 from collections import Counter, defaultdict
 import copy
+import importlib.util
 import json
 from pathlib import Path
 import re
@@ -275,10 +276,21 @@ def main():
     parser.add_argument('--website-overrides',type=Path,default=ROOT/'seed/website-overrides.json')
     parser.add_argument('--output',type=Path,default=ROOT/'docs/data/pilot.json')
     parser.add_argument('--coverage',type=Path,default=ROOT/'docs/data/coverage.json')
+    parser.add_argument('--academics',type=Path,default=ROOT/'seed/academic-reference-2026.json')
+    parser.add_argument('--academic-verifications',type=Path,default=ROOT/'seed/school-academic-verifications.json')
     args=parser.parse_args()
     read=lambda p: json.loads(p.read_text(encoding='utf-8-sig'))
     data,coverage=build_roster(read(args.directory),read(args.verified),read(args.chsc),
                              read(args.website_overrides) if args.website_overrides.exists() else {})
+    if args.academics.exists():
+        spec=importlib.util.spec_from_file_location('school_academics',ROOT/'scripts/school-academics.py')
+        academic=importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(academic)
+        seed=read(args.academics)
+        data['schools']=academic.apply_enrichment(data['schools'],seed,read(args.academic_verifications) if args.academic_verifications.exists() else {})
+        data['academic_enrichment']={'provenance':seed['provenance'],**academic.summarize(data['schools'])}
+        data['summary']=summarize(data['schools'],data['checked_date'])
+        coverage['academic_enrichment']=data['academic_enrichment']
     for path,value in ((args.output,data),(args.coverage,coverage)):
         path.parent.mkdir(parents=True,exist_ok=True)
         path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

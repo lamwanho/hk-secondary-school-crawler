@@ -1,0 +1,16 @@
+{
+  "schools": [
+    {
+      "id": "edb-510700",
+      "name_zh": "將軍澳官立中學",
+      "source_url": "https://www.tkogss.edu.hk/en/public-exam-results",
+      "checked_date": "2026-10-26",
+      "verification_status": "school_page_verified",
+      "notes": "The school's 2026 results section explicitly gives these two different attainment thresholds. These are not university offers or matriculation rates. The supplied compilation's 2025 combined measure remains separate.",
+      "entry_requirements": [
+        {"cohort_year": 2026, "metric": "332A22", "reported_value": "70%"},
+        {"cohort_year": 2026, "metric": "332A33", "reported_value": "63.6%"}
+      ]
+    }
+  ]
+}

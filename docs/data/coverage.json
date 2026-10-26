@@ -2386,5 +2386,39 @@
       "checked_date": "2026-10-26",
       "academic_year": "2025/26"
     }
-  ]
+  ],
+  "academic_enrichment": {
+    "provenance": {
+      "imported_date": "2026-10-26",
+      "origin": "Owner-supplied AI-assisted secondary compilation; source claims are not independently school-verified.",
+      "files": [
+        {
+          "filename": "HK_secondary_school_banding_2026.csv",
+          "sha256": "752777400991cf9e7c615b36c3e362d303d04a8cc9dacee80072874b0a1db721"
+        },
+        {
+          "filename": "HK_secondary_school_banding_2026.md",
+          "sha256": "3cfdc788f1934fd1f87737f27467a456a87e6f21adcaf86950dd65a5320f105f"
+        },
+        {
+          "filename": "HK_secondary_school_dse_detail_2026.md",
+          "sha256": "fa60f7c1a83919362172aa5c60048c5d966ddfdf713a91158669bfd190138615"
+        }
+      ],
+      "policies": [
+        "Owner corrections take precedence. Only estimates dated 2024 onwards enter current band filters.",
+        "Preserve exact qualifiers and cohort years. Entry thresholds are not university admissions.",
+        "Mixed degree/subdegree headline measures are quarantined for definition review.",
+        "School subject statistics and Hong Kong day-school benchmarks are separate.",
+        "Missing values stay unknown. This enrichment does not verify events or booking dates."
+      ]
+    },
+    "matched_schools": 439,
+    "current_reference_bands": 425,
+    "imported_entry_requirement_claims": 171,
+    "unclassified_degree_subdegree_claims": 99,
+    "schools_with_imported_progression_claims": 279,
+    "schools_with_imported_subject_statistics": 263,
+    "conflicting_band_claims": 4
+  }
 }
