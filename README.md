@@ -19,7 +19,7 @@ The 28 previously reviewed records and their 2024 onward event history are prese
 
 ## Schedule and zero GitHub charges
 
-The public workflow runs daily at approximately 04:15 Hong Kong time, with a separate deeper run on Monday at 06:00 Hong Kong time. GitHub can delay scheduled jobs. Daily runs check a bounded set of key pages for every school, checkpoint after each 50-school batch and resume fairly after a deadline. Deeper runs rotate additional sources. Historical candidate evidence is preserved when a source changes or becomes inaccessible.
+The public workflow runs daily at approximately 10:00 Hong Kong time, with a separate deeper run on Monday at 13:00 Hong Kong time. GitHub can delay scheduled jobs. Daily runs check a bounded set of key pages for every school, checkpoint after each 50-school batch and resume fairly after a deadline. Deeper runs rotate additional sources. Historical candidate evidence is preserved when a source changes or becomes inaccessible.
 
 This repository uses standard `ubuntu-latest` runners in a public repository. GitHub documents these as free. The workflow has exact public-repository guards and a runtime visibility check; it has no paid runners, caches, artifact uploads, AI APIs, proxies, private-repository tokens or Vercel credentials. It writes only its own public data. The feed is served from raw GitHub files, so no Pages deployment or build artifact is required. This configuration does not consume paid private Actions minutes. It does not change billing or usage of unrelated repositories.
 

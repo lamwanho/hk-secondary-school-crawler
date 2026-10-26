@@ -14,9 +14,9 @@ visibility before allocating a runner, then confirm `.private == false` using
 the GitHub API before collection and publication. Making the repository private
 skips both jobs. No other repository is read or changed.
 
-- Daily job: 20:15 UTC (04:15 Hong Kong the next morning), all roster schools,
+- Daily job: 02:00 UTC (10:00 Hong Kong), all roster schools,
   four key pages per school, four workers, 75 minutes of collection.
-- Sunday deeper job: 22:00 UTC (Monday 06:00 Hong Kong), twelve pages per school,
+- Monday deeper job: 05:00 UTC (Monday 13:00 Hong Kong), twelve pages per school,
   four workers, 45 minutes. The historical endpoint reserved slot rotates by its
   last actual check time. This is a separate job and budget.
 - `workflow_dispatch` accepts `daily` or `deep` for a manual run.

@@ -2,8 +2,10 @@ name: Public school monitor
 
 on:
   schedule:
-    - cron: '15 20 * * *'
-    - cron: '0 22 * * 0'
+    # Daily 10:00 Hong Kong time (UTC+8).
+    - cron: '0 2 * * *'
+    # Monday 13:00 Hong Kong time (UTC+8).
+    - cron: '0 5 * * 1'
   workflow_dispatch:
     inputs:
       mode:
@@ -25,7 +27,7 @@ jobs:
     if: >-
       github.repository == 'lamwanho/hk-secondary-school-crawler' &&
       github.event.repository.private == false &&
-      (github.event_name == 'schedule' && github.event.schedule == '15 20 * * *' ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 2 * * *' ||
        github.event_name == 'workflow_dispatch' && inputs.mode == 'daily')
     runs-on: ubuntu-latest
     timeout-minutes: 85
@@ -67,7 +69,7 @@ jobs:
     if: >-
       github.repository == 'lamwanho/hk-secondary-school-crawler' &&
       github.event.repository.private == false &&
-      (github.event_name == 'schedule' && github.event.schedule == '0 22 * * 0' ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 5 * * 1' ||
        github.event_name == 'workflow_dispatch' && inputs.mode == 'deep')
     runs-on: ubuntu-latest
     timeout-minutes: 55
