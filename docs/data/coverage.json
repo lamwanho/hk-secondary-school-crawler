@@ -1,0 +1,2390 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-10-26",
+  "source_url": "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+  "scope": "Local mainstream Government, Aided, Caput, DSS and local-private day secondary school identities; ESF, official international, special, evening and education service centres excluded.",
+  "source_payload_records": 3496,
+  "secondary_source_rows": 647,
+  "duplicate_source_rows": 15,
+  "included_secondary_sections": 494,
+  "included_school_identities": 478,
+  "districts": [
+    "Central & Western",
+    "Eastern",
+    "Islands",
+    "Kowloon City",
+    "Kwai Tsing",
+    "Kwun Tong",
+    "North",
+    "Sai Kung",
+    "Sha Tin",
+    "Sham Shui Po",
+    "Southern",
+    "Tai Po",
+    "Tsuen Wan",
+    "Tuen Mun",
+    "Wan Chai",
+    "Wong Tai Sin",
+    "Yau Tsim Mong",
+    "Yuen Long"
+  ],
+  "schools_by_funding": {
+    "Aided": 355,
+    "Caput": 2,
+    "DSS": 57,
+    "Government": 29,
+    "Private": 35
+  },
+  "matched_seed_ids": [
+    "wong-shiu-chi-secondary-school",
+    "cheung-chuk-shan-college",
+    "ccc-heep-woh-college",
+    "kwun-tong-maryknoll-college",
+    "skh-lam-woo-memorial-secondary-school",
+    "ho-fung-college",
+    "christian-alliance-s-c-chan-memorial-college",
+    "hkta-tang-hin-memorial-secondary-school",
+    "hong-kong-chinese-womens-club-college",
+    "delia-memorial-school-hip-wo",
+    "kings-college",
+    "queens-college",
+    "chiu-lut-sau-memorial-secondary-school",
+    "diocesan-boys-school",
+    "st-pauls-co-educational-college",
+    "diocesan-girls-school",
+    "heep-yunn-school",
+    "henrietta-secondary-school",
+    "la-salle-college",
+    "pooi-to-middle-school",
+    "st-pauls-college",
+    "st-pauls-convent-school",
+    "ho-yu-college-and-primary-school",
+    "st-margarets-coeducational-english-secondary-primary",
+    "stewards-pooi-kei-college",
+    "hkuga-college",
+    "creative-secondary-school",
+    "hong-kong-true-light-middle-school"
+  ],
+  "unmatched_seed_ids": [],
+  "historically_researched_schools": 28,
+  "directory_only_schools": 450,
+  "website_overrides_applied": [
+    "edb-609498",
+    "edb-612820",
+    "edb-622079",
+    "edb-626864",
+    "edb-629081",
+    "edb-630381"
+  ],
+  "schools_missing_website": [],
+  "chsc_profiles_in_source": 441,
+  "matched_chsc_profiles": 441,
+  "excluded_identity_counts": {
+    "education_service_centre_not_ordinary_school": 3,
+    "esf_school": 8,
+    "evening_section": 8,
+    "international_school": 26,
+    "special_school": 62
+  },
+  "not_in_chsc_profile_bulk": [
+    {
+      "registration_no": "171026",
+      "name_en": "PO LEUNG KUK VICWOOD K.T. CHONG SIXTH FORM COLLEGE"
+    },
+    {
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE"
+    },
+    {
+      "registration_no": "231622",
+      "name_en": "LI PO CHUN UNITED WORLD COLLEGE OF HONG KONG"
+    },
+    {
+      "registration_no": "289094",
+      "name_en": "BEACON COLLEGE"
+    },
+    {
+      "registration_no": "289515",
+      "name_en": "CALIFORNIA SCHOOL"
+    },
+    {
+      "registration_no": "315699",
+      "name_en": "WAHHAR COLLEGE HONG KONG"
+    },
+    {
+      "registration_no": "513725",
+      "name_en": "HONG KONG ADVENTIST ACADEMY"
+    },
+    {
+      "registration_no": "524867",
+      "name_en": "BEACON COLLEGE (MONG KOK)"
+    },
+    {
+      "registration_no": "543560",
+      "name_en": "PO LEUNG KUK CHOI KAI YAU SCHOOL"
+    },
+    {
+      "registration_no": "553190",
+      "name_en": "THE INDEPENDENT SCHOOLS FOUNDATION ACADEMY"
+    },
+    {
+      "registration_no": "553867",
+      "name_en": "INTERNATIONAL CHRISTIAN QUALITY MUSIC SECONDARY AND PRIMARY SCHOOL"
+    },
+    {
+      "registration_no": "560138",
+      "name_en": "VICTORIA SHANGHAI ACADEMY"
+    },
+    {
+      "registration_no": "567450",
+      "name_en": "YEW CHUNG INTERNATIONAL SCHOOL - SECONDARY"
+    },
+    {
+      "registration_no": "569836",
+      "name_en": "INTERNATIONAL CHRISTIAN SCHOOL"
+    },
+    {
+      "registration_no": "581259",
+      "name_en": "GRACE CHRISTIAN ACADEMY"
+    },
+    {
+      "registration_no": "596140",
+      "name_en": "FOREST HOUSE WALDORF SCHOOL"
+    },
+    {
+      "registration_no": "605638",
+      "name_en": "STAMFORD AMERICAN SCHOOL HONG KONG"
+    },
+    {
+      "registration_no": "607371",
+      "name_en": "DALTON SCHOOL HONG KONG"
+    },
+    {
+      "registration_no": "607819",
+      "name_en": "HAN ACADEMY"
+    },
+    {
+      "registration_no": "608319",
+      "name_en": "ISLAND WALDORF SCHOOL"
+    },
+    {
+      "registration_no": "608327",
+      "name_en": "SHEMA ACADEMY"
+    },
+    {
+      "registration_no": "609498",
+      "name_en": "SPANISH SCHOOL OF HONG KONG"
+    },
+    {
+      "registration_no": "609781",
+      "name_en": "HONGKONG LIMAI SCHOOL"
+    },
+    {
+      "registration_no": "611751",
+      "name_en": "WYCOMBE ABBEY SCHOOL HONG KONG"
+    },
+    {
+      "registration_no": "612820",
+      "name_en": "ANANTARA COLLEGE"
+    },
+    {
+      "registration_no": "615137",
+      "name_en": "TAI KWONG HILARY COLLEGE"
+    },
+    {
+      "registration_no": "616354",
+      "name_en": "INVICTUS SECONDARY SCHOOL"
+    },
+    {
+      "registration_no": "617334",
+      "name_en": "OXBRIDGE BRITISH SCHOOL"
+    },
+    {
+      "registration_no": "621374",
+      "name_en": "HONG KONG BLUEBELL COLLEGE"
+    },
+    {
+      "registration_no": "622079",
+      "name_en": "ANCHORS ACADEMY"
+    },
+    {
+      "registration_no": "623067",
+      "name_en": "SAINT TOO BLOOM ACADEMY"
+    },
+    {
+      "registration_no": "625264",
+      "name_en": "EXCEL LONDON COLLEGE (TSIM SHA TSUI)"
+    },
+    {
+      "registration_no": "626864",
+      "name_en": "STAMFORD AMERICAN SCHOOL HONG KONG (WEST KOWLOON)"
+    },
+    {
+      "registration_no": "627267",
+      "name_en": "WYCOMBE ABBEY SCHOOL HONG KONG (KOWLOON)"
+    },
+    {
+      "registration_no": "629081",
+      "name_en": "ZHONGSHAN WHAMPOA ACADEMY"
+    },
+    {
+      "registration_no": "630004",
+      "name_en": "HONG KONG WEI LAI SECONDARY SCHOOL"
+    },
+    {
+      "registration_no": "630381",
+      "name_en": "SPEATER COLLEGE"
+    }
+  ],
+  "excluded_records": [
+    {
+      "school_no": "519162000233",
+      "registration_no": "519162",
+      "name_en": "CARITAS CHAN CHUN HA FIELD STUDIES CENTRE",
+      "category": "Aided Secondary Schools",
+      "session": "WHOLE DAY",
+      "reason": "education_service_centre_not_ordinary_school"
+    },
+    {
+      "school_no": "517160000233",
+      "registration_no": "517160",
+      "name_en": "HO KOON NATURE EDUCATION CUM ASTRONOMICAL CENTRE",
+      "category": "Aided Secondary Schools",
+      "session": "WHOLE DAY",
+      "reason": "education_service_centre_not_ordinary_school"
+    },
+    {
+      "school_no": "519162000133",
+      "registration_no": "519162",
+      "name_en": "CARITAS CHAN CHUN HA FIELD STUDIES CENTRE",
+      "category": "Aided Secondary Schools",
+      "session": "WHOLE DAY",
+      "reason": "education_service_centre_not_ordinary_school"
+    },
+    {
+      "school_no": "250074000233",
+      "registration_no": "250074",
+      "name_en": "HONG KONG RED CROSS MARGARET TRENCH SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000733",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001133",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250627000133",
+      "registration_no": "250627",
+      "name_en": "CARITAS LOK JUN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250490000133",
+      "registration_no": "250490",
+      "name_en": "HONG CHI MORNINGLIGHT SCHOOL, YUEN LONG (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250368000133",
+      "registration_no": "250368",
+      "name_en": "CARITAS RESURRECTION SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250317000233",
+      "registration_no": "250317",
+      "name_en": "HONG CHI MORNINGJOY SCHOOL, YUEN LONG (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "114448000133",
+      "registration_no": "114448",
+      "name_en": "SAM SHUI NATIVES ASSOCIATION LAU PUN CHEUNG SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "114227000233",
+      "registration_no": "114227",
+      "name_en": "HKSYC&IA CHAN NAM CHONG MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250139000133",
+      "registration_no": "250139",
+      "name_en": "SAHK B M KOTEWALL MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250309000133",
+      "registration_no": "250309",
+      "name_en": "ROTARY CLUB OF HONG KONG ISLAND WEST HONG CHI MORNINGHOPE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250244000433",
+      "registration_no": "250244",
+      "name_en": "HONG CHI PINEHILL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "608491000133",
+      "registration_no": "608491",
+      "name_en": "CARITAS MOTHER TERESA SCHOOL",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250384000333",
+      "registration_no": "250384",
+      "name_en": "HONG CHI PINEHILL NO.2 SCHOOL",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250473000333",
+      "registration_no": "250473",
+      "name_en": "HAVEN OF HOPE SUNNYSIDE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250449000233",
+      "registration_no": "250449",
+      "name_en": "EVANGELIZE CHINA FELLOWSHIP HOLY WORD SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250546000133",
+      "registration_no": "250546",
+      "name_en": "TUNG WAH GROUP OF HOSPITALS KWAN FONG KAI CHI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250228000233",
+      "registration_no": "250228",
+      "name_en": "PO LEUNG KUK ANITA L.L. CHAN (CENTENARY) SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250422000233",
+      "registration_no": "250422",
+      "name_en": "TSEUNG KWAN O PUI CHI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250627000233",
+      "registration_no": "250627",
+      "name_en": "CARITAS LOK JUN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250147000133",
+      "registration_no": "250147",
+      "name_en": "SAVIOUR LUTHERAN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250589000333",
+      "registration_no": "250589",
+      "name_en": "HONG CHI MORNINGHILL SCHOOL, TUEN MUN (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260150000133",
+      "registration_no": "260150",
+      "name_en": "HONG CHI LIONS MORNINGHILL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "618276000133",
+      "registration_no": "618276",
+      "name_en": "TWGHS CHI-LI PAO SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250732000233",
+      "registration_no": "250732",
+      "name_en": "HONG CHI MORNINGHOPE SCHOOL, TUEN MUN (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260266000133",
+      "registration_no": "260266",
+      "name_en": "SAHK KO FOOK IU MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250031000133",
+      "registration_no": "250031",
+      "name_en": "HONG KONG RED CROSS JOHN F. KENNEDY CENTRE (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250325000333",
+      "registration_no": "250325",
+      "name_en": "HONG KONG CHRISTIAN SERVICE PUI OI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250538000133",
+      "registration_no": "250538",
+      "name_en": "RHENISH CHURCH GRACE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260142000133",
+      "registration_no": "260142",
+      "name_en": "HONG KONG RED CROSS PRINCESS ALEXANDRA SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250201000133",
+      "registration_no": "250201",
+      "name_en": "CHOI JUN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250333000333",
+      "registration_no": "250333",
+      "name_en": "SAHK JOCKEY CLUB ELAINE FIELD SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250236000133",
+      "registration_no": "250236",
+      "name_en": "THE CHURCH OF CHRIST IN CHINA KEI SHUN SPECIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250619000233",
+      "registration_no": "250619",
+      "name_en": "PO LEUNG KUK LAW'S FOUNDATION SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250465000333",
+      "registration_no": "250465",
+      "name_en": "CARITAS JOCKEY CLUB LOK YAN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250651000133",
+      "registration_no": "250651",
+      "name_en": "HONG CHI MORNINGLIGHT SCHOOL, TUEN MUN (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250082000133",
+      "registration_no": "250082",
+      "name_en": "MARY ROSE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250520000233",
+      "registration_no": "250520",
+      "name_en": "BUDDHIST TO CHI FAT SHE YEUNG YAT LAM MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250406000233",
+      "registration_no": "250406",
+      "name_en": "PO LEUNG KUK MR. & MRS. CHAN PAK KEUNG TSING YI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250503000133",
+      "registration_no": "250503",
+      "name_en": "TUNG WAH GROUP OF HOSPITALS TSUI TSIN TONG SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "112526000133",
+      "registration_no": "112526",
+      "name_en": "SHATIN PUBLIC SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250341000133",
+      "registration_no": "250341",
+      "name_en": "EBENEZER NEW HOPE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250350000133",
+      "registration_no": "250350",
+      "name_en": "THE SALVATION ARMY SHEK WU SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250376000133",
+      "registration_no": "250376",
+      "name_en": "PO LEUNG KUK YU LEE MO FAN MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250457000233",
+      "registration_no": "250457",
+      "name_en": "CARITAS LOK KAN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250163000133",
+      "registration_no": "250163",
+      "name_en": "SOCIETY OF BOYS' CENTRES CHAK YAN CENTRE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250112000133",
+      "registration_no": "250112",
+      "name_en": "HONG CHI MORNINGHILL SCHOOL, TSUI LAM (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260339000133",
+      "registration_no": "260339",
+      "name_en": "CARITAS PELLETIER SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260282000133",
+      "registration_no": "260282",
+      "name_en": "HONG KONG JUVENILE CARE CENTRE CHAN NAM CHEONG MEMORIAL SCHOOL",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260320000133",
+      "registration_no": "260320",
+      "name_en": "MARYCOVE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250279000133",
+      "registration_no": "250279",
+      "name_en": "HONG CHI WINIFRED MARY CHEUNG MORNINGHOPE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260290000133",
+      "registration_no": "260290",
+      "name_en": "LUTHERAN SCHOOL FOR THE DEAF (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260037000133",
+      "registration_no": "260037",
+      "name_en": "EBENEZER SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260304000233",
+      "registration_no": "260304",
+      "name_en": "SOCIETY OF BOYS' CENTRES SHING TAK CENTRE SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250600000333",
+      "registration_no": "250600",
+      "name_en": "HHCKLA BUDDHIST PO KWONG SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250481000133",
+      "registration_no": "250481",
+      "name_en": "THE JOCKEY CLUB HONG CHI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250392000233",
+      "registration_no": "250392",
+      "name_en": "THE CHURCH OF CHRIST IN CHINA, MONGKOK CHURCH KAI OI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250635000133",
+      "registration_no": "250635",
+      "name_en": "CARITAS LOK YI SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250210000233",
+      "registration_no": "250210",
+      "name_en": "SOCIETY OF BOYS' CENTRES - HUI CHUNG SING MEMORIAL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "324574000233",
+      "registration_no": "324574",
+      "name_en": "THE MENTAL HEALTH ASSOCIATION OF HONG KONG - CORNWALL SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250414000333",
+      "registration_no": "250414",
+      "name_en": "HONG CHI PINEHILL NO.3 SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "250589000133",
+      "registration_no": "250589",
+      "name_en": "HONG CHI MORNINGHILL SCHOOL, TUEN MUN (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "154105000233",
+      "registration_no": "154105",
+      "name_en": "TUNG WAN MOK LAW SHUI WAH SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "313343000233",
+      "registration_no": "313343",
+      "name_en": "CHI YUN SCHOOL (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "615471000133",
+      "registration_no": "615471",
+      "name_en": "HONG CHI SHIU PONG MORNINGHOPE SCHOOL(SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215002033",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001933",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001733",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000133",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000333",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001433",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001033",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000633",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000533",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000833",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000933",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000233",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001233",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001333",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001633",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215001533",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "260215000433",
+      "registration_no": "260215",
+      "name_en": "HONG KONG RED CROSS HOSPITAL SCHOOLS (SECONDARY SECTION)",
+      "category": "Aided Special Schools",
+      "session": "WHOLE DAY",
+      "reason": "special_school"
+    },
+    {
+      "school_no": "170399000133",
+      "registration_no": "170399",
+      "name_en": "ISLAND SCHOOL",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "190314000233",
+      "registration_no": "190314",
+      "name_en": "SHATIN COLLEGE",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "190314000133",
+      "registration_no": "190314",
+      "name_en": "SHATIN COLLEGE",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "170836000133",
+      "registration_no": "170836",
+      "name_en": "THE SOUTH ISLAND SCHOOL",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "250686000233",
+      "registration_no": "250686",
+      "name_en": "JOCKEY CLUB SARAH ROE SCHOOL",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "170992000133",
+      "registration_no": "170992",
+      "name_en": "WEST ISLAND SCHOOL",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "170917000133",
+      "registration_no": "170917",
+      "name_en": "KING GEORGE V SCHOOL",
+      "category": "English Schools Foundation (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "511072000133",
+      "registration_no": "511072",
+      "name_en": "ARTS & TECHNOLOGY EDUCATION CENTRE",
+      "category": "Government Secondary Schools",
+      "session": "WHOLE DAY",
+      "reason": "education_service_centre_not_ordinary_school"
+    },
+    {
+      "school_no": "216186000433",
+      "registration_no": "216186",
+      "name_en": "CARMEL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "598356000433",
+      "registration_no": "598356",
+      "name_en": "NORD ANGLIA INTERNATIONAL SCHOOL, HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "607525000133",
+      "registration_no": "607525",
+      "name_en": "SHREWSBURY INTERNATIONAL SCHOOL HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "215406000533",
+      "registration_no": "215406",
+      "name_en": "KELLETT SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "522775000133",
+      "registration_no": "522775",
+      "name_en": "JAPANESE INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "216011000533",
+      "registration_no": "216011",
+      "name_en": "CANADIAN INTERNATIONAL SCHOOL OF HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "534579000133",
+      "registration_no": "534579",
+      "name_en": "SEAR ROGERS INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "215406000433",
+      "registration_no": "215406",
+      "name_en": "KELLETT SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "548430000633",
+      "registration_no": "548430",
+      "name_en": "THE INTERNATIONAL MONTESSORI SCHOOL - AN IMEF SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "570370000333",
+      "registration_no": "570370",
+      "name_en": "THE HARBOUR SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "598356000333",
+      "registration_no": "598356",
+      "name_en": "NORD ANGLIA INTERNATIONAL SCHOOL, HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "605557000133",
+      "registration_no": "605557",
+      "name_en": "CHRISTIAN ALLIANCE INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "215791000133",
+      "registration_no": "215791",
+      "name_en": "DSC INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "216003000433",
+      "registration_no": "216003",
+      "name_en": "SINGAPORE INTERNATIONAL SCHOOL (HONG KONG)",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "287695000233",
+      "registration_no": "287695",
+      "name_en": "AMERICAN INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "230987000233",
+      "registration_no": "230987",
+      "name_en": "DISCOVERY BAY INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "215996000133",
+      "registration_no": "215996",
+      "name_en": "CONCORDIA INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "539155000333",
+      "registration_no": "539155",
+      "name_en": "HONG KONG ACADEMY",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "214558000133",
+      "registration_no": "214558",
+      "name_en": "GERMAN SWISS INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "215589000133",
+      "registration_no": "215589",
+      "name_en": "CHINESE INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "216275000633",
+      "registration_no": "216275",
+      "name_en": "AUSTRALIAN INTERNATIONAL SCHOOL HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "216216000133",
+      "registration_no": "216216",
+      "name_en": "KOREAN INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "213772000233",
+      "registration_no": "213772",
+      "name_en": "HONG KONG INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "590800000133",
+      "registration_no": "590800",
+      "name_en": "HARROW INTERNATIONAL SCHOOL HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "230987000133",
+      "registration_no": "230987",
+      "name_en": "DISCOVERY BAY INTERNATIONAL SCHOOL",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "214949000433",
+      "registration_no": "214949",
+      "name_en": "LYC'EE FRANCAIS INTERNATIONAL (FRENCH INTERNATIONAL SCHOOL)",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "578789000133",
+      "registration_no": "578789",
+      "name_en": "INTERNATIONAL COLLEGE HONG KONG (NEW TERRITORIES)",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "606766000133",
+      "registration_no": "606766",
+      "name_en": "MALVERN COLLEGE HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "603902000133",
+      "registration_no": "603902",
+      "name_en": "AMERICAN SCHOOL HONG KONG",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "214949000733",
+      "registration_no": "214949",
+      "name_en": "LYC'EE FRANCAIS INTERNATIONAL (FRENCH INTERNATIONAL SCHOOL)",
+      "category": "International Schools (Secondary)",
+      "session": "WHOLE DAY",
+      "reason": "international_school"
+    },
+    {
+      "school_no": "531880000134",
+      "registration_no": "531880",
+      "name_en": "MA KAM MING CHARITABLE FOUNDATION MA CHAN DUEN HEY MEMORIAL EVENING COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "226564000234",
+      "registration_no": "226564",
+      "name_en": "GERTRUDE SIMON LUTHERAN EVENING COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "240656000234",
+      "registration_no": "240656",
+      "name_en": "LUI CHEUNG KWONG LUTHERAN EVENING COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001134",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001234",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "533343000134",
+      "registration_no": "533343",
+      "name_en": "PO LEUNG KUK & SPROUTS FOUNDATION SECONDARY EDUCATION SERVICES CENTRE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001534",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "542644000134",
+      "registration_no": "542644",
+      "name_en": "HONG KONG TEACHERS' ASSOCIATION EVENING SECONDARY SCHOOL",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001334",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001034",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "567485000133",
+      "registration_no": "567485",
+      "name_en": "RENAISSANCE COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "569747000233",
+      "registration_no": "569747",
+      "name_en": "DISCOVERY COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "WHOLE DAY",
+      "reason": "esf_school"
+    },
+    {
+      "school_no": "526720000134",
+      "registration_no": "526720",
+      "name_en": "ASSEMBLY OF GOD HEBRON EVENING SCHOOL",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "517569000134",
+      "registration_no": "517569",
+      "name_en": "SHATIN LUTHERAN EVENING SCHOOL",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    },
+    {
+      "school_no": "215287001434",
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "category": "Private Secondary Schools (Day/Evening)",
+      "session": "EVENING",
+      "reason": "evening_section"
+    }
+  ],
+  "excluded_record_counts": {
+    "education_service_centre_not_ordinary_school": 4,
+    "esf_school": 9,
+    "evening_section": 13,
+    "international_school": 30,
+    "special_school": 82
+  },
+  "merged_sections": [
+    {
+      "registration_no": "131814",
+      "name_en": "KOWLOON SAM YUK SECONDARY SCHOOL",
+      "school_numbers": [
+        "131814000133",
+        "131814000333"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "190187",
+      "name_en": "SHA TIN METHODIST COLLEGE",
+      "school_numbers": [
+        "190187000133",
+        "190187000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "190667",
+      "name_en": "KWOK TAK SENG CATHOLIC SECONDARY SCHOOL",
+      "school_numbers": [
+        "190667000133",
+        "190667000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "190780",
+      "name_en": "TSANG PIK SHAN (SUNG LAN) SECONDARY SCHOOL",
+      "school_numbers": [
+        "190780000133",
+        "190780000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "213195",
+      "name_en": "ST. STEPHEN'S CHURCH COLLEGE",
+      "school_numbers": [
+        "213195000133",
+        "213195000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "289094",
+      "name_en": "BEACON COLLEGE",
+      "school_numbers": [
+        "289094000231",
+        "289094000232",
+        "289094000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "511030",
+      "name_en": "YING WA GIRLS' SCHOOL",
+      "school_numbers": [
+        "511030000133",
+        "511030000333"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "512605",
+      "name_en": "LAI CHACK MIDDLE SCHOOL",
+      "school_numbers": [
+        "512605000133",
+        "512605000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "512869",
+      "name_en": "MARYMOUNT SECONDARY SCHOOL",
+      "school_numbers": [
+        "512869000133",
+        "512869000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "524867",
+      "name_en": "BEACON COLLEGE (MONG KOK)",
+      "school_numbers": [
+        "524867000131",
+        "524867000132",
+        "524867000133"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "609498",
+      "name_en": "SPANISH SCHOOL OF HONG KONG",
+      "school_numbers": [
+        "609498000133",
+        "609498000233",
+        "609498000333"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "609781",
+      "name_en": "HONGKONG LIMAI SCHOOL",
+      "school_numbers": [
+        "609781000133",
+        "609781000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    },
+    {
+      "registration_no": "617334",
+      "name_en": "OXBRIDGE BRITISH SCHOOL",
+      "school_numbers": [
+        "617334000133",
+        "617334000233"
+      ],
+      "rule": "same six-digit EDB registration and exact normalized school name; retain campus sections"
+    }
+  ],
+  "reviewed_directory_differences": [
+    {
+      "id": "wong-shiu-chi-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "Wong Shiu Chi Secondary School",
+      "directory_value": "WONG SHIU CHI SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "wong-shiu-chi-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://www.wscss.edu.hk/",
+      "directory_value": "http://www.wscss.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "cheung-chuk-shan-college",
+      "field": "name_en",
+      "reviewed_value": "Cheung Chuk Shan College",
+      "directory_value": "CHEUNG CHUK SHAN COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "cheung-chuk-shan-college",
+      "field": "website",
+      "reviewed_value": "https://www.ccsc.edu.hk/",
+      "directory_value": "http://www.ccsc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ccc-heep-woh-college",
+      "field": "name_en",
+      "reviewed_value": "C.C.C. Heep Woh College",
+      "directory_value": "THE CHURCH OF CHRIST IN CHINA HEEP WOH COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ccc-heep-woh-college",
+      "field": "website",
+      "reviewed_value": "https://www.ccchwc.edu.hk/",
+      "directory_value": "http://www.ccchwc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "kwun-tong-maryknoll-college",
+      "field": "name_en",
+      "reviewed_value": "Kwun Tong Maryknoll College",
+      "directory_value": "KWUN TONG MARYKNOLL COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "kwun-tong-maryknoll-college",
+      "field": "website",
+      "reviewed_value": "https://www.ktmc.edu.hk/",
+      "directory_value": "http://www.ktmc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "skh-lam-woo-memorial-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "S.K.H. Lam Woo Memorial Secondary School",
+      "directory_value": "S.K.H. LAM WOO MEMORIAL SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "skh-lam-woo-memorial-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://www.lamwoo.edu.hk/",
+      "directory_value": "http://www.lamwoo.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-fung-college",
+      "field": "name_en",
+      "reviewed_value": "Ho Fung College (Sponsored by Sik Sik Yuen)",
+      "directory_value": "HO FUNG COLLEGE (SPONSORED BY THE SIK SIK YUEN)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-fung-college",
+      "field": "name_zh",
+      "reviewed_value": "可風中學（嗇色園主辦）",
+      "directory_value": "可風中學(嗇色園主辦)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-fung-college",
+      "field": "website",
+      "reviewed_value": "https://www.hofung.edu.hk/",
+      "directory_value": "http://www.hofung.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-fung-college",
+      "field": "school_address_zh",
+      "reviewed_value": "新界上葵涌和宜合道448號",
+      "directory_value": "新界葵涌和宜合道448號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "christian-alliance-s-c-chan-memorial-college",
+      "field": "name_en",
+      "reviewed_value": "Christian Alliance S. C. Chan Memorial College",
+      "directory_value": "CHRISTIAN ALLIANCE S. C. CHAN MEMORIAL COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "christian-alliance-s-c-chan-memorial-college",
+      "field": "website",
+      "reviewed_value": "https://www.scc.edu.hk/",
+      "directory_value": "http://www.scc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "christian-alliance-s-c-chan-memorial-college",
+      "field": "school_address_zh",
+      "reviewed_value": "屯門友愛邨友愛路7號",
+      "directory_value": "新界屯門友愛邨友愛路7號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hkta-tang-hin-memorial-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "Hong Kong Taoist Association Tang Hin Memorial Secondary School",
+      "directory_value": "HONG KONG TAOIST ASSOCIATION TANG HIN MEMORIAL SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hkta-tang-hin-memorial-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://www.tanghin.edu.hk/",
+      "directory_value": "http://www.tanghin.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hong-kong-chinese-womens-club-college",
+      "field": "name_en",
+      "reviewed_value": "Hong Kong Chinese Women's Club College",
+      "directory_value": "HONG KONG CHINESE WOMEN'S CLUB COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hong-kong-chinese-womens-club-college",
+      "field": "website",
+      "reviewed_value": "https://www.hkcwcc.edu.hk/",
+      "directory_value": "http://www.hkcwcc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "delia-memorial-school-hip-wo",
+      "field": "name_en",
+      "reviewed_value": "Delia Memorial School (Hip Wo)",
+      "directory_value": "DELIA MEMORIAL SCHOOL (HIP WO)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "delia-memorial-school-hip-wo",
+      "field": "name_zh",
+      "reviewed_value": "地利亞修女紀念學校（協和）",
+      "directory_value": "地利亞修女紀念學校(協和)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "delia-memorial-school-hip-wo",
+      "field": "website",
+      "reviewed_value": "https://www.deliahw.edu.hk/",
+      "directory_value": "http://www.deliahw.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "delia-memorial-school-hip-wo",
+      "field": "school_address_zh",
+      "reviewed_value": "九龍觀塘協和街221號",
+      "directory_value": "九龍協和街221號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "kings-college",
+      "field": "name_en",
+      "reviewed_value": "King's College",
+      "directory_value": "KING'S COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "kings-college",
+      "field": "website",
+      "reviewed_value": "https://www.kings.edu.hk/",
+      "directory_value": "http://www.kings.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "kings-college",
+      "field": "school_address_zh",
+      "reviewed_value": "香港西環般咸道63號A",
+      "directory_value": "香港般咸道63號A",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "queens-college",
+      "field": "name_en",
+      "reviewed_value": "Queen's College",
+      "directory_value": "QUEEN'S COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "queens-college",
+      "field": "website",
+      "reviewed_value": "https://www.qc.edu.hk/",
+      "directory_value": "http://www.qc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "queens-college",
+      "field": "school_address_zh",
+      "reviewed_value": "香港銅鑼灣高士威道120號",
+      "directory_value": "銅鑼灣高士威道120號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "chiu-lut-sau-memorial-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "Chiu Lut Sau Memorial Secondary School",
+      "directory_value": "CHIU LUT SAU MEMORIAL SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "chiu-lut-sau-memorial-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://www.clsmss.edu.hk/",
+      "directory_value": "http://www.clsmss.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "chiu-lut-sau-memorial-secondary-school",
+      "field": "school_address_zh",
+      "reviewed_value": "新界元朗體育路七號",
+      "directory_value": "元朗體育路七號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "diocesan-boys-school",
+      "field": "name_en",
+      "reviewed_value": "Diocesan Boys' School",
+      "directory_value": "DIOCESAN BOYS' SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "diocesan-boys-school",
+      "field": "website",
+      "reviewed_value": "https://www.dbs.edu.hk/",
+      "directory_value": "http://www.dbs.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "diocesan-boys-school",
+      "field": "school_address_zh",
+      "reviewed_value": "九龍旺角亞皆老街131號（包括宿舍部分）",
+      "directory_value": "九龍旺角亞皆老街131號(包括宿舍部分 宿舍及體育綜合大樓 IB大樓及藝術大樓)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-co-educational-college",
+      "field": "name_en",
+      "reviewed_value": "St. Paul's Co-educational College",
+      "directory_value": "ST. PAUL'S CO-EDUCATIONAL COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-co-educational-college",
+      "field": "website",
+      "reviewed_value": "https://www.spcc.edu.hk/",
+      "directory_value": "http://www.spcc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-co-educational-college",
+      "field": "school_address_zh",
+      "reviewed_value": "香港麥當勞道33號",
+      "directory_value": "香港中環麥當勞道33號及麥當勞道35號威豪閣附翼校舍",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "diocesan-girls-school",
+      "field": "name_en",
+      "reviewed_value": "Diocesan Girls' School",
+      "directory_value": "DIOCESAN GIRLS' SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "diocesan-girls-school",
+      "field": "website",
+      "reviewed_value": "https://www.dgs.edu.hk/",
+      "directory_value": "http://www.dgs.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "heep-yunn-school",
+      "field": "name_en",
+      "reviewed_value": "Heep Yunn School",
+      "directory_value": "HEEP YUNN SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "heep-yunn-school",
+      "field": "website",
+      "reviewed_value": "https://www.hys.edu.hk/",
+      "directory_value": "http://www.hys.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "heep-yunn-school",
+      "field": "school_address_zh",
+      "reviewed_value": "九龍九龍城農圃道1號",
+      "directory_value": "九龍農圃道1號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "henrietta-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "Henrietta Secondary School",
+      "directory_value": "HENRIETTA SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "henrietta-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://henrietta.edu.hk/",
+      "directory_value": "http://www.henrietta.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "henrietta-secondary-school",
+      "field": "school_address_zh",
+      "reviewed_value": "香港北角城市花園道2號",
+      "directory_value": "香港北角城市花園道二號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "la-salle-college",
+      "field": "name_en",
+      "reviewed_value": "La Salle College",
+      "directory_value": "LA SALLE COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "la-salle-college",
+      "field": "website",
+      "reviewed_value": "https://www.lasalle.edu.hk/",
+      "directory_value": "http://www.lasalle.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "la-salle-college",
+      "field": "school_address_zh",
+      "reviewed_value": "九龍喇沙利道18號地庫1至2樓及地下至4樓",
+      "directory_value": "九龍喇沙利道18號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "pooi-to-middle-school",
+      "field": "name_en",
+      "reviewed_value": "Pooi To Middle School",
+      "directory_value": "POOI TO MIDDLE SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "pooi-to-middle-school",
+      "field": "website",
+      "reviewed_value": "https://www.pooito.edu.hk/",
+      "directory_value": "http://www.pooito.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "pooi-to-middle-school",
+      "field": "school_address_zh",
+      "reviewed_value": "九龍城延文禮士道2號",
+      "directory_value": "九龍延文禮士道2-8號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-college",
+      "field": "name_en",
+      "reviewed_value": "St. Paul's College",
+      "directory_value": "ST. PAUL'S COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-college",
+      "field": "website",
+      "reviewed_value": "https://www.spc.edu.hk/",
+      "directory_value": "http://www.spc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-college",
+      "field": "school_address_zh",
+      "reviewed_value": "香港般咸道67–69號",
+      "directory_value": "香港般咸道67-69號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-convent-school",
+      "field": "name_en",
+      "reviewed_value": "St. Paul's Convent School",
+      "directory_value": "ST. PAUL'S CONVENT SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-pauls-convent-school",
+      "field": "website",
+      "reviewed_value": "https://www.spcs.edu.hk/",
+      "directory_value": "http://www.spcs.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-yu-college-and-primary-school",
+      "field": "name_en",
+      "reviewed_value": "Ho Yu College and Primary School (Sponsored by Sik Sik Yuen)",
+      "directory_value": "HO YU COLLEGE AND PRIMARY SCHOOL (SPONSORED BY SIK SIK YUEN)",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-yu-college-and-primary-school",
+      "field": "website",
+      "reviewed_value": "https://ss.hoyu.edu.hk/",
+      "directory_value": "http://www.hoyu.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "ho-yu-college-and-primary-school",
+      "field": "school_address_zh",
+      "reviewed_value": "新界大嶼山東涌健東路4–6號",
+      "directory_value": "新界東涌健東路4–6號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-margarets-coeducational-english-secondary-primary",
+      "field": "name_en",
+      "reviewed_value": "St. Margaret's Co-educational English Secondary and Primary School",
+      "directory_value": "ST. MARGARET'S CO-EDUCATIONAL ENGLISH SECONDARY AND PRIMARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-margarets-coeducational-english-secondary-primary",
+      "field": "website",
+      "reviewed_value": "https://www.smcesps.edu.hk/",
+      "directory_value": "http://www.smcesps.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "st-margarets-coeducational-english-secondary-primary",
+      "field": "school_address_zh",
+      "reviewed_value": "西九龍深旺道33號",
+      "directory_value": "九龍深水埗深旺道33號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "stewards-pooi-kei-college",
+      "field": "name_en",
+      "reviewed_value": "Stewards Pooi Kei College",
+      "directory_value": "STEWARDS POOI KEI COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "stewards-pooi-kei-college",
+      "field": "website",
+      "reviewed_value": "https://www.spkc.edu.hk/",
+      "directory_value": "http://www.spkc.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hkuga-college",
+      "field": "name_en",
+      "reviewed_value": "HKUGA College",
+      "directory_value": "HKUGA COLLEGE",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hkuga-college",
+      "field": "website",
+      "reviewed_value": "https://www.hkugac.edu.hk/",
+      "directory_value": "http://www.hkugac.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "creative-secondary-school",
+      "field": "name_en",
+      "reviewed_value": "Creative Secondary School",
+      "directory_value": "CREATIVE SECONDARY SCHOOL",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "creative-secondary-school",
+      "field": "website",
+      "reviewed_value": "https://www.css.edu.hk/",
+      "directory_value": "http://www.css.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "creative-secondary-school",
+      "field": "school_address_zh",
+      "reviewed_value": "西貢區將軍澳蓬萊路3號",
+      "directory_value": "新界將軍澳蓬萊路3號",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hong-kong-true-light-middle-school",
+      "field": "name_en",
+      "reviewed_value": "The True Light School of Hong Kong",
+      "directory_value": "THE TRUE LIGHT SCHOOL OF HONG KONG",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hong-kong-true-light-middle-school",
+      "field": "website",
+      "reviewed_value": "https://www.tlmshk.edu.hk/",
+      "directory_value": "http://tlmshk.edu.hk/",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    },
+    {
+      "id": "hong-kong-true-light-middle-school",
+      "field": "school_address_zh",
+      "reviewed_value": "香港大坑道50號",
+      "directory_value": "香港大坑道50號中學部東翼及西翼、1座(地下至5樓)、2座(地下部分)、百齡堂(小學課室除外)、運動場、主入口、噴水池、天井及百齡堂空地",
+      "policy": "reviewed display retained; official directory value available in directory_source"
+    }
+  ],
+  "classification_ledger": [
+    {
+      "registration_no": "215287",
+      "name_en": "RUDOLF STEINER EDUCATION FOUNDATION HONG KONG MARIA COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "289094",
+      "name_en": "BEACON COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Registered full-time day secondary identity retained; unrelated tutorial offerings are outside the roster.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://lifeplanning.edb.gov.hk/uploads/page/attachments/S6-repeaters_combined%2819-20%29.pdf"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "289515",
+      "name_en": "CALIFORNIA SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "315699",
+      "name_en": "WAHHAR COLLEGE HONG KONG",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "513725",
+      "name_en": "HONG KONG ADVENTIST ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "524867",
+      "name_en": "BEACON COLLEGE (MONG KOK)",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Registered full-time day secondary identity retained; unrelated tutorial offerings are outside the roster.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://lifeplanning.edb.gov.hk/uploads/page/attachments/S6-repeaters_combined%2819-20%29.pdf"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "543560",
+      "name_en": "PO LEUNG KUK CHOI KAI YAU SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "553190",
+      "name_en": "THE INDEPENDENT SCHOOLS FOUNDATION ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "553867",
+      "name_en": "INTERNATIONAL CHRISTIAN QUALITY MUSIC SECONDARY AND PRIMARY SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "560138",
+      "name_en": "VICTORIA SHANGHAI ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "567450",
+      "name_en": "YEW CHUNG INTERNATIONAL SCHOOL - SECONDARY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "569836",
+      "name_en": "INTERNATIONAL CHRISTIAN SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Private Independent School Scheme; other private school, not excluded merely for International in its name.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+        "https://internationalschools.edb.gov.hk/en/schools/pis.html"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "581259",
+      "name_en": "GRACE CHRISTIAN ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "596140",
+      "name_en": "FOREST HOUSE WALDORF SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "605638",
+      "name_en": "STAMFORD AMERICAN SCHOOL HONG KONG",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Stamford branding/curriculum does not override its private category in the official EDB directory; retained with classification ambiguity visible.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "607371",
+      "name_en": "DALTON SCHOOL HONG KONG",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "607819",
+      "name_en": "HAN ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "608319",
+      "name_en": "ISLAND WALDORF SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "608327",
+      "name_en": "SHEMA ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "609498",
+      "name_en": "SPANISH SCHOOL OF HONG KONG",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "609781",
+      "name_en": "HONGKONG LIMAI SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "611751",
+      "name_en": "WYCOMBE ABBEY SCHOOL HONG KONG",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "612820",
+      "name_en": "ANANTARA COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "615137",
+      "name_en": "TAI KWONG HILARY COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "616354",
+      "name_en": "INVICTUS SECONDARY SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "617334",
+      "name_en": "OXBRIDGE BRITISH SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "621374",
+      "name_en": "HONG KONG BLUEBELL COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "622079",
+      "name_en": "ANCHORS ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "623067",
+      "name_en": "SAINT TOO BLOOM ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "625264",
+      "name_en": "EXCEL LONDON COLLEGE (TSIM SHA TSUI)",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "626864",
+      "name_en": "STAMFORD AMERICAN SCHOOL HONG KONG (WEST KOWLOON)",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion. Stamford branding/curriculum does not override its private category in the official EDB directory; retained with classification ambiguity visible.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "627267",
+      "name_en": "WYCOMBE ABBEY SCHOOL HONG KONG (KOWLOON)",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "629081",
+      "name_en": "ZHONGSHAN WHAMPOA ACADEMY",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "630004",
+      "name_en": "HONG KONG WEI LAI SECONDARY SCHOOL",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    },
+    {
+      "registration_no": "630381",
+      "name_en": "SPEATER COLLEGE",
+      "decision": "included",
+      "reason": "Included EDB local-private registered day secondary school; curriculum is not an exclusion.",
+      "source_urls": [
+        "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json"
+      ],
+      "checked_date": "2026-10-26"
+    }
+  ],
+  "limitations": [
+    "EDB monthly bulk JSON has no internal effective/snapshot date field. checked_date is retrieval date, not a claim of a publisher issue date.",
+    "The 2025/26 CHSC CSV has 441 profiles; it is supplementary, never a roster gate. Directory-only schools have no completed historical event or social-platform research. Separately cited website identity checks do not establish event coverage.",
+    "No historical event dates are synthesized from academic-year headings, admissions prose, or class counts. All new school-year event coverage is not_researched.",
+    "A public-sector/DSS count of 446 and an all-sector 2025/26 count of 513 use statistical scope/time definitions, including education service centres, and are not a target for this current mainstream roster.",
+    "Local private includes EDB-classified private/PIS schools offering IB, IGCSE and IAL; the curriculum alone does not make an official international school.",
+    "The official voluntary Private School List is not exhaustive, so absence there is not a reason to remove a registered day school.",
+    "Public website URLs come from EDB or CHSC and have not each been live-checked in this roster build. Missing URLs remain null.",
+    "School counts describe registered directory identities, not a guarantee of current intake, vacancies, financial viability, or continuous operation.",
+    "Some private schools are branded international while officially listed as other private; classification follows EDB category. Stamford registrations are retained with an explicit ambiguity note.",
+    "Beacon registered secondary day sessions are included; tutorial-only/non-formal courses are not inferred from operator names or scraped into this roster.",
+    "Several private schools have English text in the publisher Chinese-name field. This is retained verbatim; no Chinese name is invented."
+  ],
+  "source_checks": [
+    {
+      "source": "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+      "status": "200; JSON parsed",
+      "rows": 3496,
+      "checked_date": "2026-10-26",
+      "cadence": "monthly"
+    },
+    {
+      "source": "https://www.chsc.hk/datagovhk/ssp_2025_2026_en.csv",
+      "status": "200; CSV parsed",
+      "rows": 441,
+      "checked_date": "2026-10-26",
+      "academic_year": "2025/26"
+    }
+  ]
+}

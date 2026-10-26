@@ -1,0 +1,3977 @@
+{
+  "source_url": "https://www.chsc.hk/datagovhk/ssp_2025_2026_en.csv",
+  "publisher": "Committee on Home-School Co-operation (CHSC)",
+  "checked_date": "2026-10-26",
+  "academic_year": "2025/26",
+  "rows": [
+    {
+      "district": "Kowloon City",
+      "school_name": "Diocesan Boys' School",
+      "school_website": "http://www.dbs.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "\"$63330\"",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Diocesan Girls' School",
+      "school_website": "http://www.dgs.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "\"$42000\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Po Leung Kuk Lo Kit Sing (1983) College",
+      "school_website": "http://www.plk83.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Po Leung Kuk Centenary Li Shiu Chung Memorial College",
+      "school_website": "http://www.plkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Po Leung Kuk No.1 W.H. Cheung College",
+      "school_website": "https://www.plkno1.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Po Leung Kuk Tang Yuk Tien College",
+      "school_website": "http://www.plktytc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Po Leung Kuk Celine Ho Yam Tong College",
+      "school_website": "http://www.plkchc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Po Leung Kuk Wu Chung College",
+      "school_website": "http://plkwcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Po Leung Kuk Ho Yuk Ching (1984) College",
+      "school_website": "http://www.plk1984.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Po Leung Kuk Lee Shing Pik College",
+      "school_website": "http://www.plklsp.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "PLK Laws Foundation College",
+      "school_website": "http://www.plklfc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$19800\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Islands",
+      "school_name": "PLK Mrs. Ma Kam Ming-Cheung Fook Sien College",
+      "school_website": "https://www.plkcfs.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Po Leung Kuk Ma Kam Ming College",
+      "school_website": "http://www.plkmkmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Po Leung Kuk Tong Nai Kan Junior Secondary College",
+      "school_website": "https://www.plktnkjsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Po Leung Kuk Ngan Po Ling College",
+      "school_website": "http://www.npl.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$35200\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Po Leung Kuk Yao Ling Sun College",
+      "school_website": "http://www.plkylsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Po Leung Kuk C. W. Chu College",
+      "school_website": "https://www.plkcwc.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Pope Paul VI College",
+      "school_website": "http://www.ppaulvi.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Po On Commercial Association Wong Siu Ching Secondary School",
+      "school_website": "http://www.pocawsc.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Po Kok Secondary School",
+      "school_website": "http://www.pokok.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Holy Trinity College",
+      "school_website": "http://www.htc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Precious Blood Secondary School",
+      "school_website": "http://www.pbss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Concordia Lutheran School - North Point",
+      "school_website": "http://www.clsnp.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Belilios Public School",
+      "school_website": "https://www.bps.hk",
+      "school_type": "Gov't",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Evangel College",
+      "school_website": "https://www.evangel.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$30300\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Man Kwan Pak Kau College",
+      "school_website": "http://www.mkpc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$6660\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Bethel High School",
+      "school_website": "http://www.bethel.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "POH 80th Anniversary Tang Ying Hei College",
+      "school_website": "http://www.pohtyh.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "POH Chan Kai Memorial College",
+      "school_website": "http://www.pohck.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Pok Oi Hospital Tang Pui King Memorial College",
+      "school_website": "http://www.tpk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "AD&FD POHL Leung Sing Tak College",
+      "school_website": "http://www.lstc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Choi Hung Estate Catholic Secondary School",
+      "school_website": "https://www.choihung.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Cheung Sha Wan Catholic Secondary School",
+      "school_website": "http://www.cswcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Cheung Chau Government Secondary School",
+      "school_website": "https://ccgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "1"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "CMA Choi Cheung Kok Secondary School",
+      "school_website": "http://www.cmacck.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "CMA Secondary School",
+      "school_website": "http://www.cmass.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Chiu Chow Association Secondary School",
+      "school_website": "http://www.ccass.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Chan Sui Ki (La Salle) College",
+      "school_website": "http://www.csklsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Tsung Tsin College",
+      "school_website": "http://www.ttc.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Salesian English School",
+      "school_website": "http://www.ssshk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Tai Po Sam Yuk Secondary School",
+      "school_website": "http://www.tpsy.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$12400\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Tak Oi Secondary School",
+      "school_website": "http://www.takoi.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "St. Teresa Secondary School",
+      "school_website": "https://www.stteresa.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Good Hope School",
+      "school_website": "https://www2.ghs.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "\"$36750\"",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Tak Sun Secondary School",
+      "school_website": "http://www.tsss.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "\"$22000\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Tak Nga Secondary School",
+      "school_website": "http://www.taknga.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Tack Ching Girls' Secondary School",
+      "school_website": "http://www.tackching.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Tang King Po School",
+      "school_website": "http://www.tangkingpo.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Tang Shiu Kin Victoria Government Secondary School",
+      "school_website": "https://www.tskvgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Delia Memorial School (Broadway)",
+      "school_website": "http://www.deliabw.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Delia Memorial School (Glee Path)",
+      "school_website": "http://www.deliagp.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Delia Memorial School (Hip Wo No.2 College)",
+      "school_website": "http://www.deliahw2.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Delia Memorial School (Hip Wo)",
+      "school_website": "https://www.deliahw.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "TWGHs Chen Zao Men College",
+      "school_website": "http://www.twghczm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "TWGHs Mrs. Fung Wong Fung Ting College",
+      "school_website": "http://www.twghfwfts.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "TWGHs Kwok Yat Wai College",
+      "school_website": "http://www.twghkywc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "TWGHs Wong Fung Ling College",
+      "school_website": "http://www.twghwflc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "TWGHs Wong Fut Nam College",
+      "school_website": "https://www.twghwfns.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "North",
+      "school_name": "TWGHs Kap Yan Directors' College",
+      "school_website": "https://www.twghkyds.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "TWGHs Mr & Mrs Kwong Sik Kwan College",
+      "school_website": "http://www.twghsksk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "North",
+      "school_name": "TWGHs Li Ka Shing College",
+      "school_website": "https://www.twghlkss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "TWGHs Lee Ching Dea Memorial College",
+      "school_website": "http://www.lcdmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Tung Wah Group of Hospitals Lo Kon Ting Memorial College",
+      "school_website": "http://www.lktmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "TWGHs Lui Yun Choy Memorial College",
+      "school_website": "http://www.lycmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "TWGHs C.Y. Ma Memorial College",
+      "school_website": "http://www.cyma.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "TWGHs Yow Kam Yuen College",
+      "school_website": "https://www.twyky.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "TWGHs Yau Tze Tin Memorial College",
+      "school_website": "http://www.ytt.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "TWGHs S. C. Gaw Memorial College",
+      "school_website": "http://www.twghscgms.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Tung Wah Group of Hospitals Mrs. Wu York Yu Memorial College",
+      "school_website": "http://www.twghwyyms.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "TWGHs Sun Hoi Directors' College",
+      "school_website": "http://www.shd.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "TWGHs Chang Ming Thien College",
+      "school_website": "http://www.twghcmts.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "GCC&ITKD Lau Pak Lok Secondary School",
+      "school_website": "http://lplss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Tung Chung Catholic School",
+      "school_website": "http://www.tccs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "YPI & CA Lee Lim Ming College",
+      "school_website": "http://www.ypicallmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Valtorta College",
+      "school_website": "https://www.valtorta.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "TIACC Woo Hon Fai Secondary School",
+      "school_website": "https://tiaccwhf.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "North",
+      "school_name": "Fanling Government Secondary School",
+      "school_website": "http://www.fgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Fanling Kau Yan College",
+      "school_website": "http://www.fkyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "North",
+      "school_name": "Fanling Rhenish Church Secondary School",
+      "school_website": "https://www.frcss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "North",
+      "school_name": "Elegantia College (Sponsored by Education Convergence)",
+      "school_website": "http://www.elegantia.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "North",
+      "school_name": "Fung Kai No. 1 Secondary School",
+      "school_website": "http://www.fk1ss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "North",
+      "school_name": "Fung Kai Liu Man Shek Tong Secondary School",
+      "school_website": "http://www.fklmstss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Buddhist Tai Kwong Chi Hong College",
+      "school_website": "http://www.btkchc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Buddhist Tai Hung College",
+      "school_website": "https://www.bthc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Buddhist Fat Ho Memorial College",
+      "school_website": "http://www.bfhmc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$6600\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Buddhist Ho Nam Kam College",
+      "school_website": "https://www.bhnkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Buddhist Wong Fung Ling College",
+      "school_website": "http://www.bwflc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Buddhist Wong Wan Tin College",
+      "school_website": "http://bwwtc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Buddhist Kok Kwong Secondary School",
+      "school_website": "http://www.bkkss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Buddhist Hung Sean Chau Memorial College",
+      "school_website": "http://www.bhscmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Buddhist Mau Fung Memorial College",
+      "school_website": "http://www.bmf.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Buddhist Sin Tak College",
+      "school_website": "http://www.bstc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Buddhist Sum Heung Lam Memorial College",
+      "school_website": "http://www.bsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Buddhist Yip Kei Nam Memorial College",
+      "school_website": "http://www.ykn.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Chi Lin Buddhist Secondary School",
+      "school_website": "http://www.clbss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Fukien Secondary School",
+      "school_website": "http://www.fms.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$24500\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Fukien Secondary School (Siu Sai Wan)",
+      "school_website": "http://www.fss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "HKMLC Queen Maud Secondary School",
+      "school_website": "http://www.qmss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "HKUGA College",
+      "school_website": "http://www.hkugac.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$46500\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Munsang College (Hong Kong Island)",
+      "school_website": "http://www.imsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "HK & KLN Chiu Chow Public Assn. Sec. School",
+      "school_website": "http://www.ccpass.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "HK & KLN Kaifong Women's Association Sun Fong Chung College",
+      "school_website": "http://sunfc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "YMCA of Hong Kong Christian College",
+      "school_website": "http://www.yhkcc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$61000\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Ko Lui Secondary School",
+      "school_website": "http://www.klss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "Raimondi College",
+      "school_website": "http://www.raimondi.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Sir Ellis Kadoorie Secondary School (West Kowloon)",
+      "school_website": "http://seksswk.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Kwun Tong Kung Lok Government Secondary School",
+      "school_website": "http://www.ktklgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Kwun Tong Government Secondary School",
+      "school_website": "http://www.ktgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Kwun Tong Maryknoll College",
+      "school_website": "http://www.ktmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Hon Wah College",
+      "school_website": "http://www.honwah.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$18900\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Hotung Secondary School",
+      "school_website": "https://hotungss.edu.hk/",
+      "school_type": "Gov't",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Bishop Hall Jubilee School",
+      "school_website": "http://www.bhjs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Homantin Government Secondary School",
+      "school_website": "http://www.hmtgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Wah Yan College, Kowloon",
+      "school_website": "http://www.wyk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Wa Ying College",
+      "school_website": "http://www.waying.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Queen's College Old Boys' Association Secondary School",
+      "school_website": "http://www.qcobass.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Queen's College",
+      "school_website": "https://www.qc.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Wai Kiu College",
+      "school_website": "http://www.wkc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$3000\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "United Christian College",
+      "school_website": "http://www.ucc.edu.hk",
+      "school_type": "CAPUT",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "United Christian College (Kowloon East)",
+      "school_website": "http://www.uccke.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$29800\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Man Kwan QualiEd College",
+      "school_website": "https://www.mkqc.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$11610\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Tsung Tsin Christian Academy",
+      "school_website": "http://www.ttca.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$42500\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "The Y.W.C.A. Hioe Tjo Yoeng College",
+      "school_website": "http://www.htyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "The Mission Covenant Church Holm Glad College",
+      "school_website": "http://www.holmglad.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "ELCHK Lutheran Academy",
+      "school_website": "http://www.luac.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$84110\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Fanling Lutheran Secondary School",
+      "school_website": "http://www.flss.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$7100\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "ELCHK Lutheran Secondary School",
+      "school_website": "http://www.lss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "The ELCHK Yuen Long Lutheran Secondary School",
+      "school_website": "http://www.yll.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Christian & Missionary Alliance Sun Kei Secondary School",
+      "school_website": "http://www.skss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "ECF Saint Too Canaan College",
+      "school_website": "http://www.stcc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$25900\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Christ College",
+      "school_website": "http://www.christcollege.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "PAOC Ka Chi Secondary School",
+      "school_website": "http://www.kachi.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Carmel Alison Lam Foundation Secondary School",
+      "school_website": "http://www.calfss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Carmel Pak U Secondary School",
+      "school_website": "http://www.cpu.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Carmel Holy Word Secondary School",
+      "school_website": "http://www.chw.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Carmel Bunnan Tong Memorial Secondary School",
+      "school_website": "http://www.cbtmss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Carmel Secondary School",
+      "school_website": "http://www.carmelss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Carmel Divine Grace Foundation Secondary School",
+      "school_website": "https://www.cdgfss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Pui Tak Canossian College",
+      "school_website": "http://www.ptcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "St. Francis' Canossian College",
+      "school_website": "http://www.sfcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Holy Family Canossian College",
+      "school_website": "http://www.hfcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "St. Mary's Canossian College",
+      "school_website": "http://www.smcc.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Sacred Heart Canossian College",
+      "school_website": "http://www.shcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Canossa College",
+      "school_website": "http://www.canossa.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Tseung Kwan O Government Secondary School",
+      "school_website": "http://www.tkogss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Heung To Secondary School (Tseung Kwan O)",
+      "school_website": "http://www.tko.heungto.net",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$7750\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Kit Sam Lam Bing Yim Secondary School",
+      "school_website": "https://www.kitsam.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Cumberland Presbyterian Church Yao Dao Secondary School",
+      "school_website": "http://www.cpcydss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Clementi Secondary School",
+      "school_website": "http://www.clementi.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Baptist Lui Ming Choi Secondary School",
+      "school_website": "http://www.blmcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Baptist Wing Lung Secondary School",
+      "school_website": "http://www.bwlss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "King Ling College",
+      "school_website": "http://www.kingling.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Kowloon Technical School",
+      "school_website": "http://www.kts.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Kowloon Sam Yuk Secondary School",
+      "school_website": "https://www.ksyss.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$3060\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Kowloon Tong School (Secondary Section)",
+      "school_website": "http://www.ktsss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Kowloon True Light School",
+      "school_website": "http://www.ktls.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Kau Yan College",
+      "school_website": "https://www.kyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Salvation Army William Booth Secondary School",
+      "school_website": "http://www.wbss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Ho Dao College (Sponsored by Sik Sik Yuen)",
+      "school_website": "http://www.hodao.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Ho Fung College (Sponsored by Sik Sik Yuen)",
+      "school_website": "http://www.hofung.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Ho Lap College (Sponsored by the Sik Sik Yuen)",
+      "school_website": "http://www.holap.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Confucian Tai Shing Ho Kwok Pui Chun College",
+      "school_website": "http://www.ctshkpcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Academy of Innovation (Confucius Hall)",
+      "school_website": "https://www.aich.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$5990\"",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Kiangsu - Chekiang College (Kwai Chung)",
+      "school_website": "http://www.kcckc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Kwai Chung Methodist College",
+      "school_website": "http://www.kcmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "La Salle College",
+      "school_website": "http://www.lasalle.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "7"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "St. Paul's School (Lam Tin)",
+      "school_website": "http://www.spslt.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Scientia Secondary School",
+      "school_website": "http://www.scientia.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$5166\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Lock Tao Secondary School",
+      "school_website": "http://www.locktao.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Lok Sin Tong Ku Chiu Man Secondary School",
+      "school_website": "http://www.lstkcmss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "Lok Sin Tong Leung Kau Kui College",
+      "school_website": "http://www.lstlkkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Lok Sin Tong Leung Chik Wai Memorial School",
+      "school_website": "https://www.lstlcw.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Lok Sin Tong Wong Chung Ming Secondary School",
+      "school_website": "http://www.lstwcm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Lok Sin Tong Young Ko Hsiao Lin Secondary School",
+      "school_website": "http://www.lstyoungkhl.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Lok Sin Tong Yu Kan Hing Secondary School",
+      "school_website": "http://www.ykh.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Lee Kau Yan Memorial School",
+      "school_website": "http://www.lkyms.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Rhenish Church Pang Hok Ko Memorial College",
+      "school_website": "http://www.rcphkmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Lai King Catholic Secondary School",
+      "school_website": "http://www.lkcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Lai Chack Middle School",
+      "school_website": "https://www.laichack.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Leung Shek Chee College",
+      "school_website": "http://www.lscc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Helen Liang Memorial Secondary School (Shatin)",
+      "school_website": "https://www.hlmssst.edu.hk/rIndex",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Liu Po Shan Memorial College",
+      "school_website": "http://www.lpsmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Lam Tai Fai College",
+      "school_website": "http://www.ltfc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$45130\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Ling Liang Church M H Lau Secondary School",
+      "school_website": "http://www.llcmhlau.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Ling Liang Church E Wun Secondary School",
+      "school_website": "http://www.llcew.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Lingnan Hang Yee Memorial Secondary School",
+      "school_website": "http://www.lhymss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Lingnan Secondary School",
+      "school_website": "http://www.lingnan.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Lingnan Dr. Chung Wing Kwong Memorial Secondary School",
+      "school_website": "http://www.ldcwkmss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Lui Ming Choi Lutheran College",
+      "school_website": "http://www.llc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Lui Cheung Kwong Lutheran College",
+      "school_website": "http://www.lck.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Gertrude Simon Lutheran College",
+      "school_website": "http://www.gslc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Concordia Lutheran School",
+      "school_website": "http://www.cls.edu.hk/tc",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Hoi Ping Chamber of Commerce Secondary School",
+      "school_website": "http://www.hpccss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Law Ting Pong Secondary School",
+      "school_website": "http://www.ltpss.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$23946\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Ma On Shan Tsung Tsin Secondary School",
+      "school_website": "http://www.mosttss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Ma On Shan St. Joseph's Secondary School",
+      "school_website": "http://www.mossjss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "MKMCF Ma Chan Duen Hey Memorial College",
+      "school_website": "http://www.mcdhmc.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Stewards MKMCF Ma Ko Pan Memorial College",
+      "school_website": "http://www.makopan.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Marymount Secondary School",
+      "school_website": "http://www.mss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Maryknoll Fathers' School",
+      "school_website": "https://www.mfs1.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Maryknoll Convent School (Secondary Section)",
+      "school_website": "https://www.mcs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Maryknoll Secondary School",
+      "school_website": "http://www.maryknoll.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Cotton Spinners Association Secondary School",
+      "school_website": "http://www.csa.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "The Yuen Yuen Institute MFBM Nei Ming Chan Lui Chung Tak Mem. College",
+      "school_website": "http://www.clctmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Madam Lau Kam Lung Secondary School of Miu Fat Buddhist Monastery",
+      "school_website": "https://www.lkl.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Munsang College",
+      "school_website": "https://www.munsang.edu.hk/secondary/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Man Kiu College",
+      "school_website": "http://www.mkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "0"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Caritas Chai Wan Marden Foundation Secondary School",
+      "school_website": "http://ccm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "0"
+    },
+    {
+      "district": "North",
+      "school_name": "Caritas Fanling Chan Chun Ha Secondary School",
+      "school_website": "https://cfs.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Caritas Wu Cheng-Chung College",
+      "school_website": "http://www.cwcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Caritas Ma On Shan Secondary School",
+      "school_website": "http://www.cmos.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Caritas St. Joseph Secondary School",
+      "school_website": "http://www.csjss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Caritas Tuen Mun Marden Foundation Secondary School",
+      "school_website": "https://www.tmmarden.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Caritas Yuen Long Chan Chun Ha Secondary School",
+      "school_website": "http://www.cys.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Caritas Chong Yuet Ming Secondary School",
+      "school_website": "http://www.ccym.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Mu Kuang English School",
+      "school_website": "http://www.mukuang.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$2200\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "South Tuen Mun Government Secondary School ",
+      "school_website": "http://www.stmgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "SALEM-Immanuel Lutheran College",
+      "school_website": "http://www.ilc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Ning Po No. 2 College",
+      "school_website": "http://www.np2c.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Ning Po College",
+      "school_website": "http://www.npc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Fortress Hill Methodist Secondary School",
+      "school_website": "https://www.fhms.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Pui Kiu College",
+      "school_website": "http://www.puikiucollege.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$32900\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Pui Kiu Middle School",
+      "school_website": "http://www.pkms.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$10520\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Pui Ying Secondary School",
+      "school_website": "http://www.puiying.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Creative Secondary School",
+      "school_website": "http://www.css.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$96250\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Chinese Y.M.C.A. College",
+      "school_website": "https://www.cymcac.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Ching Chung Hau Po Woon Secondary School",
+      "school_website": "http://www.cchpwss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Ju Ching Chu Secondary School (Kwai Chung)",
+      "school_website": "http://www.jccsskc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Ju Ching Chu Secondary School (Tuen Mun)",
+      "school_website": "http://www.jcctm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Ju Ching Chu Secondary School (Yuen Long)",
+      "school_website": "http://www.jccssyl.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Tsuen Wan Public Ho Chuen Yiu Memorial College",
+      "school_website": "http://www.twphcymc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "Tsuen Wan Government Secondary School",
+      "school_website": "http://www.twgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "St. Francis Xavier's School Tsuen Wan",
+      "school_website": "http://www.sfxs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Yan Oi Tong Chan Wong Suk Fong Memorial Secondary School",
+      "school_website": "http://yotcwsf.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Yan Oi Tong Tin Ka Ping Secondary School",
+      "school_website": "http://www.yottkp.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Yan Chai Hospital No. 2 Secondary School",
+      "school_website": "http://www.ych2ss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Yan Chai Hospital Tung Chi Ying Memorial Secondary School",
+      "school_website": "http://www.ychtcy.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Yan Chai Hospital Lan Chi Pat Memorial Secondary School",
+      "school_website": "http://www.lcp.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "YCH Lim Por Yen Secondary School",
+      "school_website": "https://www.ychlpyss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Yan Chai Hospital Law Chan Chor Si College",
+      "school_website": "http://www.ychlccsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Yan Chai Hospital Wong Wha San Secondary School",
+      "school_website": "https://www.ychwwsss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Jockey Club Government Secondary School",
+      "school_website": "http://www.jcgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Jockey Club Ti-I College",
+      "school_website": "https://www.tic.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Jockey Club Man Kwan EduYoung College",
+      "school_website": "http://www.jcmkec.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Ho Ngai College (Sponsored by Sik Sik Yuen)",
+      "school_website": "http://www.hongai.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Islands",
+      "school_name": "Ho Yu College and Primary School (Sponsored by Sik Sik Yuen)",
+      "school_website": "https://ss.hoyu.edu.hk/ ",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Shatin Tsung Tsin Secondary School",
+      "school_website": "http://www.sttss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Sha Tin Government Secondary School",
+      "school_website": "http://www.stgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Shatin Pui Ying College",
+      "school_website": "http://www.pyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Kiangsu-Chekiang College (Shatin)",
+      "school_website": "http://kccshatin.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Sha Tin Methodist College",
+      "school_website": "http://www.stmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Sheung Shui Government Secondary School",
+      "school_website": "http://www.ssgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Shau Kei Wan East Government Secondary School",
+      "school_website": "https://www.skwegss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "0"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Shau Kei Wan Government Secondary School",
+      "school_website": "http://www.sgss.edu.hk/",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Semple Memorial Secondary School",
+      "school_website": "http://www.semple.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Assembly of God Hebron Secondary School",
+      "school_website": "https://www.hebron.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "St. Antonius Girls' College",
+      "school_website": "http://www.sagc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "St. Paul's Convent School",
+      "school_website": "http://www.spcs.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "\"$30000\"",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "St. Paul's Secondary School",
+      "school_website": "http://www.spss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Paul's Co-educational College",
+      "school_website": "http://www.spcc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$84300\"",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Paul's College",
+      "school_website": "http://www.spc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "\"$44000\"",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Southern",
+      "school_name": "St. Peter's Secondary School",
+      "school_website": "http://www.stpeter.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "St. Francis of Assisi's College",
+      "school_website": "http://www.sfac.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "St. Francis Xavier's College",
+      "school_website": "http://www.sfxc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "S.K.H. Bishop Baker Secondary School",
+      "school_website": "http://www.skhbbss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "SKH Tsoi Kung Po Secondary School",
+      "school_website": "http://tkp.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "S.K.H. Chan Young Secondary School",
+      "school_website": "http://www.skhcyss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "S.K.H. Tang Shiu Kin Secondary School",
+      "school_website": "http://www.tsk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "S.K.H. Kei Hau Secondary School",
+      "school_website": "http://www.keihau.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tsuen Wan",
+      "school_name": "S.K.H. Li Ping Secondary School",
+      "school_website": "https://liping.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "SKH Li Fook Hing Secondary School",
+      "school_website": "http://www.lfh.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "S.K.H. Leung Kwai Yee Secondary School",
+      "school_website": "http://www.skhlkyss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "S.K.H. Lam Woo Memorial Secondary School",
+      "school_website": "http://www.lamwoo.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "S.K.H. Lam Kau Mow Secondary School",
+      "school_website": "http://www.skhlkmss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "S.K.H. Lui Ming Choi Secondary School",
+      "school_website": "http://www.skhlmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "SKH Bishop Mok Sau Tseng Secondary School",
+      "school_website": "http://www.mst.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "S.K.H. St. Benedict's School",
+      "school_website": "http://www.skhsbs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "S.K.H. St. Mary's Church Mok Hing Yiu College",
+      "school_website": "http://smcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "S.K.H. Holy Trinity Church Secondary School",
+      "school_website": "http://www.skhhtcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "S.K.H. St. Simon's Lui Ming Choi Secondary School",
+      "school_website": "https://www.skhsslmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "S.K.H. Tsang Shiu Tim Secondary School",
+      "school_website": "https://www.skhtst.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "S.K.H. All Saints' Middle School",
+      "school_website": "http://www.skhasms.edu.hk",
+      "school_type": "CAPUT",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Clare's Girls' School",
+      "school_website": "http://www.stclare.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "SKH Holy Carpenter Secondary School",
+      "school_website": "http://www.hcs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "St. Catharine's School for Girls",
+      "school_website": "http://www.scsg.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Louis School",
+      "school_website": "https://www.stlouis.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "St. Rose of Lima's College",
+      "school_website": "http://www.hksrl.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "St. Mark's School",
+      "school_website": "http://www.stmarks.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "St. Margaret's Co-Educational English Secondary and Primary School",
+      "school_website": "http://www.smcesps.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$46770\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Our Lady of The Rosary College",
+      "school_website": "http://www.olr.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Our Lady's College",
+      "school_website": "https://www.olc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Immaculate Heart of Mary College",
+      "school_website": "https://www.ihmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Notre Dame College",
+      "school_website": "http://www.ndc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Joseph's College",
+      "school_website": "http://www.sjc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "St. Joseph's Anglo-Chinese School",
+      "school_website": "http://www.sjacs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Stephen's Girls' College",
+      "school_website": "http://www.ssgc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Southern",
+      "school_name": "St. Stephen's College",
+      "school_website": "http://www.ssc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$74550\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "St. Stephen's Church College",
+      "school_website": "http://www.sscc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "St. Bonaventure College & High School",
+      "school_website": "http://www.sbc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Sing Yin Secondary School",
+      "school_website": "http://www.singyin.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "St. Joan of Arc Secondary School",
+      "school_website": "http://www.sja.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Lions Clubs International Tseung Chui King College",
+      "school_website": "http://www.lcitckc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "SPHRC Kung Yik She Secondary School",
+      "school_website": "http://www.sphrc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Shek Lei Catholic Secondary School",
+      "school_website": "http://www.slc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Lung Kong WFSL Lau Wong Fat Secondary School",
+      "school_website": "https://www.lwfss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "STFA Seaward Woo College",
+      "school_website": "http://www.stfaswc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Shun Tak Fraternal Association Lee Shau Kee College",
+      "school_website": "https://www.lskc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Shun Tak Fraternal Association Leung Kau Kui College",
+      "school_website": "http://www.lkkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Shun Tak Fraternal Association Tam Pak Yu College",
+      "school_website": "http://www.tpyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Shun Tak Fraternal Association Yung Yau College",
+      "school_website": "http://www.stfa-yyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Shun Tak Fraternal Association Cheng Yu Tung Secondary School",
+      "school_website": "http://www.cyt.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Shun Lee Catholic Secondary School",
+      "school_website": "http://www.slcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Kiangsu-Chekiang College",
+      "school_website": "http://www.kcc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$8390\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Toi Shan Association College",
+      "school_website": "http://www.tsac.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Tin Shui Wai Government Secondary School",
+      "school_website": "http://www.tswgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Heung To Middle School (Tin Shui Wai)",
+      "school_website": "http://www.heungto.net",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$6200\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Tin Shui Wai Methodist College",
+      "school_website": "http://www.tswmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Shung Tak Catholic English College",
+      "school_website": "https://www.stc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Salesians of Don Bosco Ng Siu Mui Secondary School",
+      "school_website": "http://www.sdbnsm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Kwok Tak Seng Catholic Secondary School",
+      "school_website": "https://www.ktscss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Catholic Ming Yuen Secondary School",
+      "school_website": "http://www.mingyuen.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "Daughters of Mary Help of Christians Siu Ming Catholic Secondary School",
+      "school_website": "http://dmhcsm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Nam Wah Catholic Secondary School",
+      "school_website": "http://www.nwcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Pui Shing Catholic Secondary School",
+      "school_website": "http://www.puishing.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "Po Chiu Catholic Secondary School",
+      "school_website": "http://www.pochiu.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Ng Wah Catholic Secondary School",
+      "school_website": "http://www.ngwahsec.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Newman Catholic College",
+      "school_website": "http://www.newman.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Tin Ka Ping Secondary School",
+      "school_website": "http://web.tkpss.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Tuen Mun Government Secondary School",
+      "school_website": "http://www.tmgss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Tuen Mun Catholic Secondary School",
+      "school_website": "http://www.tmcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Wong Shiu Chi Secondary School",
+      "school_website": "http://www.wscss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "WEO Chang Pui Chung Memorial School",
+      "school_website": "http://www.cpc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "The Methodist Church HK Wesley College",
+      "school_website": "http://www.mcw.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Cognitio College (Kowloon)",
+      "school_website": "http://www.cckln.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Cognitio College (HK)",
+      "school_website": "http://www.cognitiohk.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Pentecostal Lam Hon Kwong School",
+      "school_website": "http://www.plhks.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "PHC Wing Kwong College",
+      "school_website": "http://www.wingkwong.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Pentecostal School",
+      "school_website": "http://www.pentecostalschool.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "FDBWA Szeto Ho Secondary School",
+      "school_website": "http://www.szetoho.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Ng Yuk Secondary School",
+      "school_website": "http://www.nyss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Sai Kung Sung Tsun Catholic School (Secondary Section)",
+      "school_website": "https://www.sts.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Henrietta Secondary School",
+      "school_website": "http://www.henrietta.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Heung To Middle School",
+      "school_website": "http://www.heungto.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$6130\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "HKWMA Chu Shek Lun Secondary School",
+      "school_website": "http://www.hkwmacsl.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "North",
+      "school_name": "Hong Kong Taoist Association Tang Hin Memorial Secondary School",
+      "school_website": "http://www.tanghin.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "The Hong Kong Taoist Association Ching Chung Secondary School",
+      "school_website": "http://www.ccss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Hong Kong Taoist Association The Yuen Yuen Institute No. 2 Secondary Sch.",
+      "school_website": "http://www.yy2.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Hong Kong Taoist Association The Yuen Yuen Institute No. 3 Secondary Sch.",
+      "school_website": "http://www.hktayy3.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "HKTA The Yuen Yuen Institute No. 1 Secondary School",
+      "school_website": "http://www.yy1.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Hong Kong Tang King Po College",
+      "school_website": "http://www.hktkpc.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "HKMA David Li Kwok Po College",
+      "school_website": "http://www.hkmadavidli.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$39780\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "The Hong Kong Management Association K. S. Lo College",
+      "school_website": "http://www.hkmakslo.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Hong Kong Sea School",
+      "school_website": "http://www.hkss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Hong Kong Red Swastika Society Tai Po Secondary School",
+      "school_website": "http://www.hkrsstpss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "HKCCCU Logos Academy",
+      "school_website": "https://www.logos.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$32300\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "Wah Yan College Hong Kong",
+      "school_website": "http://www.wahyan.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "Hong Kong Teachers' Association Lee Heng Kwei Secondary School",
+      "school_website": "http://www.hktalhk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Islands",
+      "school_name": "HKFEW Wong Cho Bau Secondary School",
+      "school_website": "http://www.wcbss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "HKBU Affiliated School Wong Kam Fai Secondary & Primary School",
+      "school_website": "http://www.hkbuas.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$44800\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Christian Alliance S. C. Chan Memorial College",
+      "school_website": "http://www.scc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Christian Alliance Cheng Wing Gee College",
+      "school_website": "http://www.cwgc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Pooi To Middle School",
+      "school_website": "http://www.pooito.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Pui Ching Middle School",
+      "school_website": "http://www.puiching.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "6"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "HKFYG Lee Shau Kee College",
+      "school_website": "http://www.hlc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$28360\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "Stewards Pooi Tun Secondary School",
+      "school_website": "http://www.pooitun.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Stewards Pooi Kei College",
+      "school_website": "https://www.spkc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$30900\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "HKSKH Bishop Hall Secondary School",
+      "school_website": "http://www.bhss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "HKSYC & IA Chan Nam Chong Memorial College",
+      "school_website": "http://www.cnc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "HKSYC & IA Wong Tai Shan Memorial College",
+      "school_website": "http://www.wtsmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "HKICC Lee Shau Kee School of Creativity",
+      "school_website": "http://www.creativehk.edu.hk/",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$33000\"",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Hong Kong True Light College",
+      "school_website": "http://www.hktlc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "The True Light School of Hong Kong",
+      "school_website": "http://www.tlmshk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "HKCWC Fung Yiu King Memorial Secondary School",
+      "school_website": "http://www.fyk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Hong Kong Chinese Women's Club College",
+      "school_website": "http://www.hkcwcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "CUHKFAA Chan Chun Ha Secondary School",
+      "school_website": "http://www.cch.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "CUHK FAA Thomas Cheung Secondary School",
+      "school_website": "https://www.tcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Aberdeen Technical School",
+      "school_website": "http://www.ats.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Aberdeen Baptist Lui Ming Choi College",
+      "school_website": "http://www.ablmcc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "HHCKLA Buddhist Leung Chik Wai College",
+      "school_website": "http://www.blcwc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "HHCKLA Buddhist Ma Kam Chan Memorial English Secondary School",
+      "school_website": "http://www.bmkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "HHCKLA Buddhist Ching Kok Secondary School",
+      "school_website": "http://www.bckss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Heep Yunn School",
+      "school_website": "http://www.hys.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "\"$43748\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Southern",
+      "school_name": "San Wui Commercial Soc. Chan Pak Sha School",
+      "school_website": "http://www.cpss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "San Wui Commercial Society Secondary School",
+      "school_website": "http://www.swcs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "North",
+      "school_name": "De La Salle Secondary School NT",
+      "school_website": "https://www.delasalle.edu.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "Cheng Chek Chee Secondary School of SK & HH District N.T.",
+      "school_website": "http://www.cccss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "N.T. Heung Yee Kuk Tai Po District Secondary School",
+      "school_website": "http://www.nthyktpdss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "N.T. Heung Yee Kuk Yuen Long District Secondary School",
+      "school_website": "https://www.nthykyldss.edu.hk/",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "NLSI Lui Kwok Pat Fong College",
+      "school_website": "http://www.lkpfc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "NLSI Peace Evangelical Secondary School",
+      "school_website": "http://www.nlsipess.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "New Asia Middle School",
+      "school_website": "http://www.nams.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "North",
+      "school_name": "Christian Alliance S W Chan Memorial College",
+      "school_website": "https://www.caswcmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Christian Alliance College",
+      "school_website": "http://cactm.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "The Methodist Lee Wai Lee College",
+      "school_website": "http://www.lwlc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Methodist College",
+      "school_website": "http://www.mckln.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "Queen Elizabeth School",
+      "school_website": "http://www.qes.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Queen Elizabeth School Old Students' Association Tong Kwok Wah Sec. Sch.",
+      "school_website": "http://www.qts.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Queen Elizabeth School Old Students' Association Secondary School",
+      "school_website": "http://www.qos.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Islamic Kasim Tuet Memorial College",
+      "school_website": "http://www.iktmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "Ying Wa Girls' School",
+      "school_website": "http://www.ywgs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "Ying Wa College",
+      "school_website": "http://www.yingwa.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "\"$25300\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Central & Western",
+      "school_name": "King's College",
+      "school_website": "https://www.kings.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Boys",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sai Kung",
+      "school_name": "G.T. (Ellen Yeung) College",
+      "school_website": "http://www.gtcollege.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$39600\"",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Southern",
+      "school_name": "Yu Chun Keung Memorial College No. 2",
+      "school_website": "http://www.yck2.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "Yu Chun Keung Memorial College",
+      "school_website": "https://www.yckmc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Yuen Long Public Secondary School",
+      "school_website": "http://www.ylpss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "YLPMSAA Tang Siu Tong Secondary School",
+      "school_website": "http://www.tstss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Yuen Long Merchants Association Secondary School",
+      "school_website": "http://www.ylmass.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Yuen Long Catholic Secondary School",
+      "school_website": "https://www.ylcss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Sha Tin",
+      "school_name": "Tsang Pik Shan (Sung Lan) Secondary School\t",
+      "school_website": "https://www.tpsslss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Chong Gene Hang College",
+      "school_website": "http://www.cghc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "Cheung Chuk Shan College",
+      "school_website": "http://www.ccsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Chiu Lut Sau Memorial Secondary School",
+      "school_website": "http://www.clsmss.edu.hk",
+      "school_type": "Gov't",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "True Light Girls' College",
+      "school_website": "http://www.tlgc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Girls",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "CNEC Christian College",
+      "school_website": "http://www.cneccc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "CNEC Lee I Yao Memorial Secondary School",
+      "school_website": "https://liymss.goodschool.hk/",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "CNEC Lau Wing Sang Secondary School",
+      "school_website": "http://www.lws.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "CCC Fong Yun Wah Secondary School",
+      "school_website": "http://www.fywss.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "CCC Fung Leung Kit Memorial Secondary School",
+      "school_website": "http://www.flk.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "CCC Rotary Secondary School",
+      "school_website": "http://www.rotary.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Wan Chai",
+      "school_name": "CCC Kung Lee College",
+      "school_website": "https://www.cccklc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$28700\"",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "CCC Kwei Wah Shan College",
+      "school_website": "http://www.ccckws.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "CCC Hoh Fuk Tong College",
+      "school_website": "http://www.hftc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kowloon City",
+      "school_name": "CCC Kei To Secondary School",
+      "school_website": "http://www.ccckeito.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "CCC Kei Long College",
+      "school_website": "http://www.keilong.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "CCC Kei Heep Secondary School",
+      "school_website": "https://www.keiheep.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    },
+    {
+      "district": "North",
+      "school_name": "CCC Kei San Secondary School",
+      "school_website": "http://www.ks.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "CCC Kei Yuen College",
+      "school_website": "http://ccckyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "CCC Kei Chi Secondary School",
+      "school_website": "http://www.keichi.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwun Tong",
+      "school_name": "CCC Mong Man Wai College",
+      "school_website": "http://www.cccmmwc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yau Tsim Mong",
+      "school_name": "CCC Ming Kei College",
+      "school_website": "http://www.cccmkc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "CCC Ming Yin College",
+      "school_website": "http://www.cccmyc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "CCC Chuen Yuen College",
+      "school_website": "http://www.chuenyuen.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "CCC Tam Lee Lai Fun Memorial Secondary School",
+      "school_website": "http://www.tllf.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Wong Tai Sin",
+      "school_name": "CCC Heep Woh College",
+      "school_website": "http://www.ccchwc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Kwai Tsing",
+      "school_name": "CCC Yenching College",
+      "school_website": "http://www.yenching.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Yuen Long",
+      "school_name": "Chinese Y.M.C.A. Secondary School",
+      "school_website": "http://www.cymcass.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$17583\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Eastern",
+      "school_name": "The Chinese Foundation Secondary School",
+      "school_website": "http://www.cfss.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$20960\"",
+      "current_year_no_of_class_s1": "5"
+    },
+    {
+      "district": "Tai Po",
+      "school_name": "China Holiness Church Living Spirit College",
+      "school_website": "http://www.lsc.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "4"
+    },
+    {
+      "district": "Sham Shui Po",
+      "school_name": "China Holiness College",
+      "school_website": "http://www.chc.edu.hk",
+      "school_type": "DSS",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "\"$4430\"",
+      "current_year_no_of_class_s1": "2"
+    },
+    {
+      "district": "Tuen Mun",
+      "school_name": "Chung Sing Benevolent Society Mrs. Aw Boon Haw Secondary School",
+      "school_website": "http://www.csbs.edu.hk",
+      "school_type": "Aided",
+      "student_gender": "Co-ed",
+      "sc_school_fee_s1": "-",
+      "current_year_no_of_class_s1": "3"
+    }
+  ]
+}

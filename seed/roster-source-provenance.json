@@ -1,0 +1,43 @@
+{
+  "checked_date": "2026-10-26",
+  "attribution": "Contains information provided by the Education Bureau, Committee on Home-School Co-operation, Government of the Hong Kong SAR and DATA.GOV.HK.",
+  "terms_url": "https://data.gov.hk/en/terms-and-conditions",
+  "request_identity": "school-roster-collector/1.0 (python-urllib)",
+  "requests": [
+    {
+      "url": "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
+      "status": 200,
+      "response_bytes": 4312418,
+      "accept": "application/json",
+      "parsed_rows": 3496,
+      "secondary_rows": 647,
+      "sanitized_file": "roster-source-edb.json"
+    },
+    {
+      "url": "https://www.chsc.hk/datagovhk/ssp_2025_2026_en.csv",
+      "status": 200,
+      "response_bytes": 7561630,
+      "accept": "text/csv",
+      "parsed_rows": 441,
+      "sanitized_file": "roster-source-chsc.json"
+    }
+  ],
+  "hashes": {
+    "roster-source-edb.json": "a76dc16c447bbb3cbfd5177e11ecca9b584daae945521ce26b2a440648983ed0",
+    "roster-source-chsc.json": "276de4d1b4e2aa0a83a4077810831c1d5741e62601d43f3a35bd4108aa403aa6"
+  },
+  "classification_sources": [
+    "https://internationalschools.edb.gov.hk/en/schools/pis.html",
+    "https://www.edb.gov.hk/en/edu-system/primary-secondary/applicable-to-primary-secondary/private-sch-formal-curriculum/private-school-list.html",
+    "https://www.edb.gov.hk/attachment/en/edu-system/primary-secondary/applicable-to-primary-secondary/private-sch-formal-curriculum/Other%20Private%20Secondary%20Schools_E.pdf",
+    "https://www.edb.gov.hk/attachment/en/about-edb/publications-stat/figures/Enrol_2024.pdf"
+  ],
+  "privacy": "Only public factual fields retained. No credentials, cookies, full HTML, missions, staff profiles or full CHSC prose persisted.",
+  "website_identity_overrides": {
+    "file": "website-overrides.json",
+    "checked_date": "2026-10-26",
+    "verified_school_identities": 6,
+    "scope": "Official school-page identity only; not historical event coverage. Original EDB website fields remain null.",
+    "sha256": "4a8ccd54df36235b3b1c1bb7cde80122168bce0c7b07a942f36808a3b884c4c2"
+  }
+}

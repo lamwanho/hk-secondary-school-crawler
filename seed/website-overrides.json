@@ -1,0 +1,44 @@
+{
+  "edb-612820": {
+    "website": "https://anantara.edublogs.org/",
+    "source_url": "https://anantara.edublogs.org/",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official school homepage visibly identifies ANANTARA COLLEGE / 泰來書院 and School Registration Number 612820, matching the EDB identity. Python public HTML read returned HTTP 200. The page does not print the street address directly; exact registration number supplies the identity match. EDB directory website remains null."
+  },
+  "edb-622079": {
+    "website": "https://www.anchorsacademy.edu.hk/en/s_index.php?wid=235",
+    "source_url": "https://www.anchorsacademy.edu.hk/en/s_index.php?wid=235",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official Anchors Academy Junior Secondary page identifies Years 7-9 and prints 1 Ko Po Path, Kam Tin North, Yuen Long, matching the EDB secondary campus address. Python public HTML read returned HTTP 200. This is the secondary-section page; the separate kindergarten registration is not used. EDB directory website remains null."
+  },
+  "edb-609498": {
+    "website": "https://sshk.edu.hk/",
+    "source_url": "https://sshk.edu.hk/contact-us/",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official Spanish School of Hong Kong contact page names the school, prints School Registration Number 609498, and gives 9-11 Shung Tak Street, Tai Po, matching EDB campus section 609498000233. Other registered EDB addresses are retained separately; the public page is not proof of current activity at every campus. EDB directory website remains null."
+  },
+  "edb-630381": {
+    "website": "https://www.speatercollege.edu.hk/",
+    "source_url": "https://www.speatercollege.edu.hk/",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official Speater College homepage visibly names the school and prints Hong Kong Education Bureau Registration No. 630381, exactly matching the EDB secondary identity. Python public HTML read returned HTTP 200. The homepage registration number is the identity evidence; no parent/operator website is substituted. EDB directory website remains null."
+  },
+  "edb-626864": {
+    "website": "https://www.sais.edu.hk/about-us/wk/",
+    "source_url": "https://www.sais.edu.hk/about-us/wk/",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official campus page explicitly names Stamford American School Hong Kong (West Kowloon) and prints G/F to 2/F, Imperial Cullinan, 10 Hoi Fai Road, Tai Kok Tsui, Kowloon, exactly matching the EDB campus. It describes Grades 9-12. The campus-specific page is assigned rather than a generic operator homepage. EDB directory website remains null."
+  },
+  "edb-629081": {
+    "website": "https://www.zwa.com.hk/",
+    "source_url": "https://www.zwa.com.hk/",
+    "checked_date": "2026-10-26",
+    "verification_level": "official_school_page_identity_verified",
+    "notes": "Official Zhongshan Whampoa Academy homepage visibly gives both English and Chinese school identity and 10 Tat Chee Avenue, Kowloon Tong, matching the EDB registration's campus address. It is the Hong Kong school site, not the separate Guangzhou or Foshan operator schools. EDB directory website remains null."
+  }
+}
