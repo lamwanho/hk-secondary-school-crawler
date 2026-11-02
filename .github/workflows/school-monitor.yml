@@ -62,7 +62,7 @@ jobs:
           done
           if ! git diff --cached --quiet; then
             git commit -m 'data: daily public school monitoring'
-            git push origin HEAD:main
+            python scripts/publish-checkpoint.py
           fi
 
   deeper:
@@ -104,5 +104,5 @@ jobs:
           done
           if ! git diff --cached --quiet; then
             git commit -m 'data: weekly deeper public school monitoring'
-            git push origin HEAD:main
+            python scripts/publish-checkpoint.py
           fi

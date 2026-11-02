@@ -156,4 +156,8 @@ When a run fails, inspect its Actions batch summaries and the per-source error.
 Fix a confirmed school URL in the roster's source-building process, or wait for
 the next rotating run when a host is temporarily unavailable. Do not classify
 access failures as evidence that a school has no open day. Git push conflicts
-fail visibly and preserve the remote data; there is no force push.
+fail visibly and preserve the remote data; there is no force push. Before
+publishing, both scheduled jobs rebase their scan commit onto the current public
+`main` branch. A concurrent non-conflicting correction is retained, and a push
+race retries synchronization up to three times. A content conflict stops
+publication for review without overwriting either side.
