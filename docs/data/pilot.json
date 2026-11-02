@@ -2795,22 +2795,26 @@
           "mode": "On campus",
           "venue": "香港黃竹坑南風道9號",
           "visit_registration": {
-            "required": false,
+            "required": null,
             "opens_date": null,
             "opens_time": null,
             "closes_date": null,
-            "status": "walk_in",
+            "status": "unknown",
             "booking_url": null,
-            "method": "Learning displays and school tours require no prior registration"
+            "method": "Learning displays and general school tours are listed; a separate visit registration requirement is not stated on this page.",
+            "checked_date": "2026-11-02"
           },
           "talk_registration": {
             "required": true,
             "opens_date": "2026-11-02",
             "opens_time": null,
             "closes_date": "2026-11-16",
-            "status": "not_yet_open",
-            "booking_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
-            "method": "Online registration ends 16:00; tickets allocated by computer randomisation; confirmation 23 November"
+            "status": "registration_period",
+            "booking_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
+            "method": "Registration period 2–16 November; closes at 16:00 on 16 November. Tickets allocated by computer randomisation; successful applicants notified by email on 23 November. Opening time and live form availability not verified.",
+            "closes_time": "16:00",
+            "confirmation_date": "2026-11-23",
+            "checked_date": "2026-11-02"
           },
           "sessions": [
             {
@@ -2835,15 +2839,17 @@
             "type": null
           },
           "source_urls": [
-            "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars"
+            "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day"
           ],
           "chsc_urls": [],
           "verification": {
             "level": "school_page_verified",
-            "notes": ""
+            "notes": "Re-read the correct official Admission Info Day page supplied by the owner. Replaces the incorrect admission-seminars URL. This page confirms event and seminar dates; it does not explicitly waive registration for general visits.",
+            "checked_date": "2026-11-02"
           },
           "notes": [
-            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00."
+            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00.",
+            "The seminar allocation is by computer randomisation, not first-come-first-served. Each guest student may be accompanied by one parent."
           ],
           "record_type": "dated_event",
           "event_year_status": "confirmed by cited date evidence"
@@ -2883,15 +2889,15 @@
           "notes": ""
         },
         {
-          "url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+          "url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
           "type": "school_website",
-          "checked_date": "2026-10-26",
-          "access_status": "page_read",
+          "checked_date": "2026-11-02",
+          "access_status": "read",
           "supports": [
             "2027-2028 S1 Admission Info Day",
             "separate visit/talk registration"
           ],
-          "notes": ""
+          "notes": "Correct official Admission Info Day page; previous admission-seminars URL replaced."
         },
         {
           "url": "https://www.hkugac.edu.hk/f/news/1038/3910/JUPAS_2025.pdf",
@@ -64140,7 +64146,85 @@
       },
       "university_outcomes": [],
       "official_social_accounts": [],
-      "events": [],
+      "events": [
+        {
+          "event_id": "edb-552801-2026-11-21-open-day-admission-talk",
+          "event_year": 2026,
+          "admission_year": "2027/28",
+          "title": "Annual Open Day cum F.1 Admission Talk",
+          "activity_types": [
+            "Open day",
+            "Admission talk"
+          ],
+          "start_date": "2026-11-21",
+          "end_date": null,
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Hong_Kong",
+          "mode": "On campus",
+          "venue": "Admission talks: School Hall (2/F, Main Building)",
+          "visit_registration": {
+            "required": false,
+            "opens_date": null,
+            "opens_time": null,
+            "closes_date": null,
+            "status": "not_required",
+            "booking_url": null,
+            "method": null,
+            "checked_date": "2026-11-02"
+          },
+          "talk_registration": {
+            "required": true,
+            "opens_date": "2026-11-01",
+            "opens_time": "09:00",
+            "closes_date": null,
+            "status": "full",
+            "booking_url": "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+            "method": "Online enrolment; both sessions full as of 2 November 2026",
+            "checked_date": "2026-11-02"
+          },
+          "sessions": [
+            {
+              "title": "F.1 Admission Talk — Session 1",
+              "start_time": "10:00",
+              "end_time": null,
+              "registration_status": "full",
+              "checked_date": "2026-11-02"
+            },
+            {
+              "title": "F.1 Admission Talk — Session 2",
+              "start_time": "14:30",
+              "end_time": null,
+              "registration_status": "full",
+              "checked_date": "2026-11-02"
+            }
+          ],
+          "replay": {
+            "status": "unknown",
+            "url": null,
+            "type": null
+          },
+          "source_urls": [
+            "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+            "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png"
+          ],
+          "chsc_urls": [],
+          "verification": {
+            "level": "school_page_verified",
+            "checked_date": "2026-11-02",
+            "method": "Official admissions page read; linked AM/PM Full House graphic visually checked",
+            "notes": "The dated 2027/28 admissions page confirms the event and enrolment opening. Its linked graphic marks both AM and PM talks FULL HOUSE. The image filename contains an older year and is not used to date the event."
+          },
+          "notes": [
+            "Open Day needs no registration, including visitors who could not book an admission talk.",
+            "Talk enrolment opened 1 November 2026 at 09:00 HKT; enrolment closes when full. Both talks were full when checked on 2 November 2026.",
+            "Registered visitors may be directed to classrooms to watch a live broadcast if the hall is full. This is on-campus overflow, not a confirmed public online session or replay.",
+            "F.1 admission applications open 16 November 2026 at 09:00, separately from event enrolment."
+          ],
+          "record_type": "dated_event",
+          "event_year_status": "confirmed by cited date evidence"
+        }
+      ],
       "year_coverage": [
         {
           "year": 2024,
@@ -64154,8 +64238,9 @@
         },
         {
           "year": 2026,
-          "status": "not_researched",
-          "notes": "Directory coverage only; historical school-event research not completed. Missing evidence does not establish no event."
+          "status": "dated_event_found",
+          "notes": "Cited event found; this is not an exhaustive review of every event in this year.",
+          "checked_date": "2026-11-02"
         }
       ],
       "sources": [
@@ -64163,13 +64248,33 @@
           "type": "official_directory",
           "url": "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
           "checked_date": "2026-10-26"
+        },
+        {
+          "type": "school_website",
+          "url": "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+          "checked_date": "2026-11-02",
+          "access_status": "read",
+          "supports": [
+            "2026 open day and talk dates",
+            "2026 talk registration opening",
+            "2027/28 admission context"
+          ]
+        },
+        {
+          "type": "school_website",
+          "url": "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png",
+          "checked_date": "2026-11-02",
+          "access_status": "image visually read",
+          "supports": [
+            "AM and PM admission talks full; event date comes from admissions page"
+          ]
         }
       ],
       "monitoring": {
         "scheduled_monitoring_active": false
       },
       "edb_school_no": "552801",
-      "directory_status": "official_directory_only_history_not_researched",
+      "directory_status": "official_directory_with_reviewed_events",
       "directory_source": {
         "publisher": "Education Bureau / DATA.GOV.HK",
         "url": "https://www.edb.gov.hk/attachment/en/student-parents/sch-info/sch-search/sch-location-info/SCH_LOC_EDB.json",
@@ -111109,8 +111214,8 @@
   "summary": {
     "checked_date": "2026-10-26",
     "schools": 478,
-    "events": 60,
-    "dated_events": 57,
+    "events": 61,
+    "dated_events": 58,
     "undated_leads": 3,
     "districts": 18,
     "schools_by_region": {
@@ -111147,23 +111252,23 @@
     },
     "events_by_year": {
       "2025": 23,
-      "2026": 18,
+      "2026": 19,
       "2024": 16,
       "unknown": 3
     },
     "dated_events_by_year": {
       "2025": 23,
-      "2026": 18,
+      "2026": 19,
       "2024": 16
     },
     "events_by_evidence_level": {
       "chsc_only": 8,
-      "school_page_verified": 36,
+      "school_page_verified": 37,
       "school_search_index_only": 16
     },
     "dated_events_by_evidence_level": {
       "chsc_only": 8,
-      "school_page_verified": 34,
+      "school_page_verified": 35,
       "school_search_index_only": 15
     },
     "schools_with_fee_amount": 54,
@@ -111172,12 +111277,19 @@
     "schools_with_reference_band_2024_onwards": 425,
     "schools_with_outcome_rate": 11,
     "schools_with_official_social_evidence": 5,
-    "dated_school_year_cells": 56,
-    "school_year_cells_checked": 84,
-    "school_year_cells_not_researched": 1350,
-    "schools_with_historical_events": 28,
+    "dated_school_year_cells": 57,
+    "school_year_cells_checked": 85,
+    "school_year_cells_not_researched": 1349,
+    "schools_with_historical_events": 29,
     "validation_errors": 0,
     "validation_warnings": 0
+  },
+  "reviewed_event_updates": {
+    "checked_date": "2026-11-02",
+    "school_ids": [
+      "edb-552801"
+    ],
+    "source": "seed/reviewed-events.json"
   },
   "academic_enrichment": {
     "provenance": {

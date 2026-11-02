@@ -2387,6 +2387,13 @@
       "academic_year": "2025/26"
     }
   ],
+  "reviewed_event_updates": {
+    "checked_date": "2026-11-02",
+    "school_ids": [
+      "edb-552801"
+    ],
+    "source": "seed/reviewed-events.json"
+  },
   "academic_enrichment": {
     "provenance": {
       "imported_date": "2026-10-26",

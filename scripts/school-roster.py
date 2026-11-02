@@ -268,6 +268,37 @@ def build_roster(directory, verified, chsc, website_overrides=None):
     return payload, coverage
 
 
+def apply_reviewed_events(data, reviewed):
+    """Merge separately reviewed event facts without replacing directory/academic facts."""
+    schools = {school['id']: school for school in data['schools']}
+    seen = set()
+    for correction in reviewed.get('schools', []):
+        identity = correction['id']
+        if identity not in schools or identity in seen:
+            raise ValueError('Unknown or duplicate reviewed-event school: ' + identity)
+        seen.add(identity)
+        ids = [event['event_id'] for event in correction.get('events', [])]
+        if len(ids) != len(set(ids)):
+            raise ValueError('Duplicate reviewed event IDs: ' + identity)
+    for correction in reviewed.get('schools', []):
+        school = schools[correction['id']]
+        events = {event['event_id']: event for event in school.get('events', [])}
+        events.update({event['event_id']: copy.deepcopy(event) for event in correction.get('events', [])})
+        school['events'] = list(events.values())
+        dates = [event.get('verification', {}).get('checked_date', '') for event in correction.get('events', [])]
+        years = {event.get('event_year') for event in correction.get('events', [])}
+        for cell in school.get('year_coverage', []):
+            if cell['year'] in years:
+                cell.update(status='dated_event_found', notes='Cited event found; this is not an exhaustive review of every event in this year.', checked_date=max(dates, default=''))
+        sources = {(source.get('type'), source['url']): source for source in school.get('sources', [])}
+        sources.update({(source.get('type'), source['url']): copy.deepcopy(source) for source in correction.get('sources', [])})
+        school['sources'] = list(sources.values())
+        if school.get('directory_status') == 'official_directory_only_history_not_researched':
+            school['directory_status'] = 'official_directory_with_reviewed_events'
+    if seen:
+        data['reviewed_event_updates'] = {'checked_date': reviewed.get('checked_date'), 'school_ids': sorted(seen), 'source': 'seed/reviewed-events.json'}
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--directory',type=Path,default=ROOT/'seed/roster-source-edb.json')
@@ -278,10 +309,15 @@ def main():
     parser.add_argument('--coverage',type=Path,default=ROOT/'docs/data/coverage.json')
     parser.add_argument('--academics',type=Path,default=ROOT/'seed/academic-reference-2026.json')
     parser.add_argument('--academic-verifications',type=Path,default=ROOT/'seed/school-academic-verifications.json')
+    parser.add_argument('--reviewed-events',type=Path,default=ROOT/'seed/reviewed-events.json')
     args=parser.parse_args()
     read=lambda p: json.loads(p.read_text(encoding='utf-8-sig'))
     data,coverage=build_roster(read(args.directory),read(args.verified),read(args.chsc),
                              read(args.website_overrides) if args.website_overrides.exists() else {})
+    if args.reviewed_events.exists():
+        apply_reviewed_events(data, read(args.reviewed_events))
+        data['summary'] = summarize(data['schools'], data['checked_date'])
+        coverage['reviewed_event_updates'] = data.get('reviewed_event_updates')
     if args.academics.exists():
         spec=importlib.util.spec_from_file_location('school_academics',ROOT/'scripts/school-academics.py')
         academic=importlib.util.module_from_spec(spec)

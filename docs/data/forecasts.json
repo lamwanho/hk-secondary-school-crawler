@@ -3,7 +3,7 @@
   "record_type": "planning_forecast_dataset",
   "target_year": 2027,
   "target_year_kind": "event_calendar_year",
-  "generated_at": "2026-10-26",
+  "generated_at": "2026-11-02",
   "method": "comparable-history-month-windows-v1",
   "historical_calendar_years": [
     2024,
@@ -570,7 +570,7 @@
         ],
         "record_count": 2,
         "source_urls": [
-          "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+          "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
           "https://www.hkugac.edu.hk/explore/our-updates/what-s-on/hkuga-college-20th-anniversary-open-day"
         ],
         "source_event_ids": [
@@ -590,7 +590,7 @@
         ],
         "record_count": 1,
         "source_urls": [
-          "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars"
+          "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day"
         ],
         "source_event_ids": [
           "hkuga-college-2026-12-05-briefing"
@@ -634,7 +634,7 @@
           "activity_family": "s1_admissions",
           "evidence_level": "school_page_verified",
           "source_urls": [
-            "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars"
+            "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day"
           ],
           "included": true,
           "exclusion_reason": null,
@@ -645,7 +645,8 @@
             }
           ],
           "notes": [
-            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00."
+            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00.",
+            "The seminar allocation is by computer randomisation, not first-come-first-served. Each guest student may be accompanied by one parent."
           ]
         }
       ],
@@ -7901,22 +7902,88 @@
       "id": "edb-552801",
       "record_type": "planning_forecast",
       "target_year": 2027,
-      "activity_family": null,
-      "status": "unknown",
-      "event_window": null,
-      "registration_window": null,
-      "registration_status": "unknown_no_dated_opening",
-      "watch_from": null,
+      "activity_family": "s1_admissions",
+      "status": "estimated",
+      "event_window": {
+        "start": "2027-10-01",
+        "end": "2027-12-31",
+        "confidence": "low",
+        "sample_count": 1,
+        "sample_years": [
+          2026
+        ],
+        "record_count": 1,
+        "source_urls": [
+          "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+          "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png"
+        ],
+        "source_event_ids": [
+          "edb-552801-2026-11-21-open-day-admission-talk"
+        ],
+        "basis": "One observed year only; rough observed month plus one month either side. Recurrence is unconfirmed.",
+        "uncertainty": "Planning estimate only; no school announcement, guaranteed date, or statistical probability."
+      },
+      "registration_window": {
+        "start": "2027-10-01",
+        "end": "2027-12-31",
+        "confidence": "low",
+        "sample_count": 1,
+        "sample_years": [
+          2026
+        ],
+        "record_count": 1,
+        "source_urls": [
+          "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+          "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png"
+        ],
+        "source_event_ids": [
+          "edb-552801-2026-11-21-open-day-admission-talk"
+        ],
+        "basis": "One observed year only; rough observed month plus one month either side. Recurrence is unconfirmed.",
+        "uncertainty": "Planning estimate only; no school announcement, guaranteed date, or statistical probability."
+      },
+      "registration_status": "estimated",
+      "watch_from": "2027-08-02",
       "watch_lead_days": 60,
-      "source_event_ids": [],
+      "source_event_ids": [
+        "edb-552801-2026-11-21-open-day-admission-talk"
+      ],
       "official_event_ids": [],
-      "history": [],
+      "history": [
+        {
+          "event_id": "edb-552801-2026-11-21-open-day-admission-talk",
+          "title": "Annual Open Day cum F.1 Admission Talk",
+          "start_date": "2026-11-21",
+          "end_date": null,
+          "event_year": 2026,
+          "admission_year": "2027/28",
+          "activity_family": "s1_admissions",
+          "evidence_level": "school_page_verified",
+          "source_urls": [
+            "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+            "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png"
+          ],
+          "included": true,
+          "exclusion_reason": null,
+          "registration_open_dates": [
+            {
+              "kind": "talk_registration",
+              "date": "2026-11-01"
+            }
+          ],
+          "notes": [
+            "Open Day needs no registration, including visitors who could not book an admission talk.",
+            "Talk enrolment opened 1 November 2026 at 09:00 HKT; enrolment closes when full. Both talks were full when checked on 2 November 2026.",
+            "Registered visitors may be directed to classrooms to watch a live broadcast if the hall is full. This is on-campus overflow, not a confirmed public online session or replay.",
+            "F.1 admission applications open 16 November 2026 at 09:00, separately from event enrolment."
+          ]
+        }
+      ],
       "excluded_events": [],
       "notes": [
         "Target is calendar year 2027, not the 2027/28 entry academic year.",
         "Watch date is a planning reminder to check official sources; it does not activate monitoring or guarantee a seat.",
-        "Registration opening is unknown; no opening date is inferred from the event date or another school.",
-        "No comparable dated 2024–2026 sample; timing is unknown. Missing evidence does not establish no event."
+        "Only one comparable dated year was found; recurrence and future format are unconfirmed."
       ]
     },
     {

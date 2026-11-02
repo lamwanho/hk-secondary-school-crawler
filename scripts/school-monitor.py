@@ -19,7 +19,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from urllib.error import HTTPError, URLError
-from urllib.parse import urldefrag, urljoin, urlsplit
+from urllib.parse import urldefrag, urljoin, urlsplit, unquote_plus
 from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
@@ -80,7 +80,7 @@ def select_sources(school):
     # Historical evidence is checked only when it concerns admissions or events.
     candidates = sorted(set(candidates), key=lambda u: ("2027" not in u, "2026" not in u, u))
     for url in candidates:
-        if host(url) == host(root):
+        if host(url) == host(root) and not SKIP.search(url):
             add(url)
     for account in school.get("official_social_accounts", []):
         url = account.get("url") or ""
@@ -186,10 +186,19 @@ def extract_notices(url, text, content_type="text/html"):
     if RELEVANCE.search(title):
         snippet = " ".join([title] + relevant_blocks[:2])
         candidate(url, title, snippet)
-    for block in relevant_blocks:
+    for index, block in enumerate(parser.blocks):
+        if not RELEVANCE.search(block):
+            continue
         # A long navigation/footer block is not a dated event narrative.
         if len(block) <= 700:
-            candidate(url, block[:160], block)
+            context = [block]
+            for following in parser.blocks[index + 1:index + 5]:
+                # Keep explicit adjacent fields, never borrow a date from a
+                # separate announcement or navigation link.
+                if not re.match(r'^(?:date|time|日期|時間|时间|open day time|admission talk time|enrolment period|開放日時間|入學講座時間)\s*[:：]', following, re.I):
+                    break
+                context.append(following)
+            candidate(url, block[:160], ' '.join(context))
     notices.sort(key=lambda n: ("2027" not in (n["title"] + n["snippet"]), not bool(n["date_mentions"])))
     # Stable sorting retains the publisher's document order among equal ranks.
     links = sorted(dict.fromkeys(links), key=lambda u: -link_priority[u])
@@ -338,7 +347,11 @@ def monitor_school(school, previous, checked_at, fetcher=fetch_url, max_pages=8,
     def pending_priority(source):
         years = [int(year) for year in re.findall(r"20\d{2}", source["url"])]
         historical = bool(years and max(years) < 2027)
-        if source["kind"] == "discovered_school_page":
+        # A discovered stable admissions endpoint needs the same protected slot
+        # as a curated seed; numeric news archives must not starve it indefinitely.
+        if not historical and RELEVANCE.search(unquote_plus(source["url"])):
+            group = 1
+        elif source["kind"] == "discovered_school_page":
             group = 0
         elif not historical and (RELEVANCE.search(source["url"]) or HUB.search(source["url"])):
             group = 1

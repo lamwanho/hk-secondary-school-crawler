@@ -1788,22 +1788,26 @@
           "mode": "On campus",
           "venue": "香港黃竹坑南風道9號",
           "visit_registration": {
-            "required": false,
+            "required": null,
             "opens_date": null,
             "opens_time": null,
             "closes_date": null,
-            "status": "walk_in",
+            "status": "unknown",
             "booking_url": null,
-            "method": "Learning displays and school tours require no prior registration"
+            "method": "Learning displays and general school tours are listed; a separate visit registration requirement is not stated on this page.",
+            "checked_date": "2026-11-02"
           },
           "talk_registration": {
             "required": true,
             "opens_date": "2026-11-02",
             "opens_time": null,
             "closes_date": "2026-11-16",
-            "status": "not_yet_open",
-            "booking_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
-            "method": "Online registration ends 16:00; tickets allocated by computer randomisation; confirmation 23 November"
+            "status": "registration_period",
+            "booking_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
+            "method": "Registration period 2–16 November; closes at 16:00 on 16 November. Tickets allocated by computer randomisation; successful applicants notified by email on 23 November. Opening time and live form availability not verified.",
+            "closes_time": "16:00",
+            "confirmation_date": "2026-11-23",
+            "checked_date": "2026-11-02"
           },
           "sessions": [
             {
@@ -1828,15 +1832,17 @@
             "type": null
           },
           "source_urls": [
-            "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars"
+            "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day"
           ],
           "chsc_urls": [],
           "verification": {
             "level": "school_page_verified",
-            "notes": ""
+            "notes": "Re-read the correct official Admission Info Day page supplied by the owner. Replaces the incorrect admission-seminars URL. This page confirms event and seminar dates; it does not explicitly waive registration for general visits.",
+            "checked_date": "2026-11-02"
           },
           "notes": [
-            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00."
+            "A 30-minute guided tour follows each seminar; general school-tour station operates 08:30–12:00.",
+            "The seminar allocation is by computer randomisation, not first-come-first-served. Each guest student may be accompanied by one parent."
           ],
           "record_type": "dated_event",
           "event_year_status": "confirmed by cited date evidence"
@@ -1876,15 +1882,15 @@
           "notes": ""
         },
         {
-          "url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+          "url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
           "type": "school_website",
-          "checked_date": "2026-10-26",
-          "access_status": "page_read",
+          "checked_date": "2026-11-02",
+          "access_status": "read",
           "supports": [
             "2027-2028 S1 Admission Info Day",
             "separate visit/talk registration"
           ],
-          "notes": ""
+          "notes": "Correct official Admission Info Day page; previous admission-seminars URL replaced."
         },
         {
           "url": "https://www.hkugac.edu.hk/f/news/1038/3910/JUPAS_2025.pdf",

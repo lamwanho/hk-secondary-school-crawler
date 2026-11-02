@@ -193,6 +193,27 @@ class MonitorTests(unittest.TestCase):
         self.m.monitor_school(self.school, {}, self.now, fetcher=fetched)
         self.assertIn("https://school.edu.hk/admissions", urls)
 
+    def test_discovered_query_admissions_page_gets_reserved_daily_slot(self):
+        admissions = 'https://school.edu.hk/en/site/view?name=F.1+Admission'
+        old = {'sources': [{'url': f'https://school.edu.hk/en/news/view?id={i}', 'kind': 'discovered_school_page'} for i in range(35)] + [{'url': admissions, 'kind': 'discovered_school_page'}], 'notices': []}
+        urls = []
+        def fetched(url, previous=None):
+            urls.append(url)
+            return self.page(url, '<title>School</title><p>Welcome to our school.</p>')
+        self.m.monitor_school(self.school, old, self.now, fetcher=fetched, max_pages=4)
+        self.assertIn(admissions, urls)
+        self.assertEqual(len(urls), 4)
+
+    def test_poster_evidence_is_not_enqueued_as_an_html_page(self):
+        self.school['events'] = [{'source_urls': ['https://school.edu.hk/admission', 'https://school.edu.hk/uploads/full-house.png']}]
+        self.assertEqual([s['url'] for s in self.m.select_sources(self.school)], [self.school['website'], 'https://school.edu.hk/admission'])
+
+    def test_event_heading_keeps_adjacent_date_context(self):
+        notices, _ = self.m.extract_notices(self.school['website'], '<p>Open Day cum Form One Admission Talk</p><p>Date: 21 November 2026 (Saturday)</p><p>Open Day Time: 9:00 a.m. – 4:00 p.m.</p>')
+        event = next(n for n in notices if n['title'] == 'Open Day cum Form One Admission Talk')
+        self.assertIn('21 November 2026', event['snippet'])
+        self.assertEqual(event['status'], 'review_required')
+
     def test_stable_admissions_seed_is_not_starved_by_retained_discoveries(self):
         self.school["sources"] = [{"url": "https://school.edu.hk/admissions", "type": "school_website"}]
         old = {"sources": [{"url": f"https://school.edu.hk/node/{i}", "kind": "discovered_school_page"} for i in range(39)], "notices": []}

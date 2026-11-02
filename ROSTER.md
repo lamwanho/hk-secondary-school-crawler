@@ -1,6 +1,6 @@
 # Secondary-school roster and evidence coverage
 
-The published roster contains **478 registered school identities in all 18 districts**, checked on **26 October 2026**. It combines the EDB monthly school directory with 441 factual CHSC 2025/26 profile records and the 28 previously reviewed school histories. There are **60 historical event records (57 dated)** across those 28 schools. The remaining **450 schools have directory coverage; historical events have not yet been researched**. They must never be shown as schools that held no event.
+The published roster contains **478 registered school identities in all 18 districts**, checked on **26 October 2026**. It combines the EDB monthly school directory with 441 factual CHSC 2025/26 profile records and the 28 previously reviewed school histories. After the separately dated NPL correction on **2 November 2026**, there are **61 event records (58 dated)** across 29 schools. The remaining **449 schools have directory coverage; historical events have not yet been researched**. They must never be shown as schools that held no event. NPL's 2024 and 2025 histories remain unresearched.
 
 ## Scope and school identity
 

@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-02",
+  "schools": [
+    {
+      "id": "edb-552801",
+      "events": [
+        {
+          "event_id": "edb-552801-2026-11-21-open-day-admission-talk",
+          "event_year": 2026,
+          "admission_year": "2027/28",
+          "title": "Annual Open Day cum F.1 Admission Talk",
+          "activity_types": [
+            "Open day",
+            "Admission talk"
+          ],
+          "start_date": "2026-11-21",
+          "end_date": null,
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Hong_Kong",
+          "mode": "On campus",
+          "venue": "Admission talks: School Hall (2/F, Main Building)",
+          "visit_registration": {
+            "required": false,
+            "opens_date": null,
+            "opens_time": null,
+            "closes_date": null,
+            "status": "not_required",
+            "booking_url": null,
+            "method": null,
+            "checked_date": "2026-11-02"
+          },
+          "talk_registration": {
+            "required": true,
+            "opens_date": "2026-11-01",
+            "opens_time": "09:00",
+            "closes_date": null,
+            "status": "full",
+            "booking_url": "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+            "method": "Online enrolment; both sessions full as of 2 November 2026",
+            "checked_date": "2026-11-02"
+          },
+          "sessions": [
+            {
+              "title": "F.1 Admission Talk — Session 1",
+              "start_time": "10:00",
+              "end_time": null,
+              "registration_status": "full",
+              "checked_date": "2026-11-02"
+            },
+            {
+              "title": "F.1 Admission Talk — Session 2",
+              "start_time": "14:30",
+              "end_time": null,
+              "registration_status": "full",
+              "checked_date": "2026-11-02"
+            }
+          ],
+          "replay": {
+            "status": "unknown",
+            "url": null,
+            "type": null
+          },
+          "source_urls": [
+            "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+            "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png"
+          ],
+          "chsc_urls": [],
+          "verification": {
+            "level": "school_page_verified",
+            "checked_date": "2026-11-02",
+            "method": "Official admissions page read; linked AM/PM Full House graphic visually checked",
+            "notes": "The dated 2027/28 admissions page confirms the event and enrolment opening. Its linked graphic marks both AM and PM talks FULL HOUSE. The image filename contains an older year and is not used to date the event."
+          },
+          "notes": [
+            "Open Day needs no registration, including visitors who could not book an admission talk.",
+            "Talk enrolment opened 1 November 2026 at 09:00 HKT; enrolment closes when full. Both talks were full when checked on 2 November 2026.",
+            "Registered visitors may be directed to classrooms to watch a live broadcast if the hall is full. This is on-campus overflow, not a confirmed public online session or replay.",
+            "F.1 admission applications open 16 November 2026 at 09:00, separately from event enrolment."
+          ],
+          "record_type": "dated_event",
+          "event_year_status": "confirmed by cited date evidence"
+        }
+      ],
+      "sources": [
+        {
+          "type": "school_website",
+          "url": "https://www.npl.edu.hk/en/site/view?name=F.1+Admission",
+          "checked_date": "2026-11-02",
+          "access_status": "read",
+          "supports": [
+            "2026 open day and talk dates",
+            "2026 talk registration opening",
+            "2027/28 admission context"
+          ]
+        },
+        {
+          "type": "school_website",
+          "url": "https://www.npl.edu.hk/uploads/images/2023-11-05%202324%20Full%20House%20pic%20for%20school%20web.png",
+          "checked_date": "2026-11-02",
+          "access_status": "image visually read",
+          "supports": [
+            "AM and PM admission talks full; event date comes from admissions page"
+          ]
+        }
+      ]
+    }
+  ]
+}

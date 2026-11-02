@@ -98,6 +98,37 @@ No OCR or unbounded attachment crawl runs. The repository keeps the latest
 
 ## Local operation and checks
 
+### Reviewed event corrections
+
+Additional source-verified events belong in `seed/reviewed-events.json`, keyed by
+the existing school ID. `school-roster.py` applies this overlay before academic
+enrichment and summary generation. Rebuilding therefore retains corrections
+without replacing directory identity, banding, academic facts or other years.
+Each event and registration availability observation carries its own checked
+date; the directory snapshot date is not advanced for an isolated event review.
+After a correction, rebuild the roster and forecasts, then publish both files.
+
+NPL's 2026 event was recovered on 2 November from its official F.1 admissions
+page and linked Full House graphic. The graphic filename contains an older year;
+the event date and booking opening come from the dated admissions page, not the
+filename. The 2027 forecast remains an explicitly unconfirmed one-year estimate.
+
+HKUGA's 2026 record was rechecked the same day against its official
+`/engage/as-a-student/admission-info-day` page. It replaces the incorrect
+`admission-seminars` source and booking link. The published date and times are
+unchanged; seminar registration uses random allocation, not booking priority.
+The page does not state a separate general-visit registration rule, so that
+requirement remains unknown. Registration availability is dated separately from
+the original October directory snapshot.
+
+Discovered stable admissions endpoints now share the reserved rotating slot
+with seeded admissions pages, so a long queue of news links cannot starve them.
+Adjacent explicit Date/Time fields are retained in candidate excerpts. This does
+not promote candidates into confirmed events: human review remains necessary,
+especially for image-only announcements and availability graphics. Images are
+retained as cited evidence when reviewed, not fetched as HTML pages. Budgets,
+scheduled times and standard public GitHub runner configuration are unchanged.
+
 From the repository root, with Python 3.12:
 
 ```sh
