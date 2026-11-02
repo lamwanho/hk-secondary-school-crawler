@@ -2421,11 +2421,11 @@
       ]
     },
     "matched_schools": 439,
-    "current_reference_bands": 425,
+    "current_reference_bands": 427,
     "imported_entry_requirement_claims": 171,
     "unclassified_degree_subdegree_claims": 99,
     "schools_with_imported_progression_claims": 279,
     "schools_with_imported_subject_statistics": 263,
-    "conflicting_band_claims": 4
+    "conflicting_band_claims": 5
   }
 }

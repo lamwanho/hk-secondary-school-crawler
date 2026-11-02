@@ -110,11 +110,11 @@ class AcademicTests(unittest.TestCase):
         for original in source['schools']:
             for key,value in original.items():
                 if key!='reference_band':self.assertEqual(byid[original['id']][key],value,(original['id'],key))
-        for sid in ('diocesan-boys-school','st-margarets-coeducational-english-secondary-primary'):
-            self.assertEqual(byid[sid]['reference_band']['display'],'1B')
+        for sid, band in {'diocesan-boys-school':'1B','st-margarets-coeducational-english-secondary-primary':'1B','edb-543560':'1A','edb-558079':'1B'}.items():
+            self.assertEqual(byid[sid]['reference_band']['display'],band)
             self.assertEqual(byid[sid]['reference_band']['source_type'],'user_correction')
         summary=data['academic_enrichment']
-        self.assertEqual(summary['current_reference_bands'],425)
+        self.assertEqual(summary['current_reference_bands'],427)
         self.assertEqual(summary['imported_entry_requirement_claims'],171)
         self.assertEqual(summary['unclassified_degree_subdegree_claims'],99)
         self.assertEqual(summary['schools_with_imported_progression_claims'],279)

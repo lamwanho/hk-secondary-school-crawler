@@ -62489,12 +62489,22 @@
         "source_url": null
       },
       "reference_band": {
-        "display": null,
-        "reported": null,
-        "year": null,
+        "display": "1A",
+        "reported": "1A",
+        "year": 2026,
+        "source_type": "user_correction",
         "source_url": null,
-        "status": "not_researched",
-        "notes": "No estimate assigned; bands are not official school classifications."
+        "status": "User-provided correction (2026-11-02)",
+        "updated_date": "2026-11-02",
+        "notes": "Reference band supplied by the project owner; not an official school classification.",
+        "previous_reference": {
+          "display": null,
+          "reported": null,
+          "year": null,
+          "source_url": null,
+          "status": "not_researched",
+          "notes": "No estimate assigned; bands are not official school classifications."
+        }
       },
       "s1_intake": {
         "admission_year": null,
@@ -99452,12 +99462,22 @@
         "source_url": "https://www.chsc.hk/datagovhk/ssp_2025_2026_en.csv"
       },
       "reference_band": {
-        "display": null,
-        "reported": null,
-        "year": null,
+        "display": "1B",
+        "reported": "1B",
+        "year": 2026,
+        "source_type": "user_correction",
         "source_url": null,
-        "status": "not_researched",
-        "notes": "No estimate assigned; bands are not official school classifications."
+        "status": "User-provided correction (2026-11-02)",
+        "updated_date": "2026-11-02",
+        "notes": "Reference band supplied by the project owner; not an official school classification.",
+        "previous_reference": {
+          "display": null,
+          "reported": null,
+          "year": null,
+          "source_url": null,
+          "status": "not_researched",
+          "notes": "No estimate assigned; bands are not official school classifications."
+        }
       },
       "s1_intake": {
         "admission_year": null,
@@ -99619,7 +99639,7 @@
             }
           ]
         },
-        "band_conflict": false
+        "band_conflict": true
       }
     },
     {
@@ -111274,7 +111294,7 @@
     "schools_with_fee_amount": 54,
     "schools_with_address": 478,
     "schools_with_intake_total": 4,
-    "schools_with_reference_band_2024_onwards": 425,
+    "schools_with_reference_band_2024_onwards": 427,
     "schools_with_outcome_rate": 11,
     "schools_with_official_social_evidence": 5,
     "dated_school_year_cells": 57,
@@ -111318,11 +111338,11 @@
       ]
     },
     "matched_schools": 439,
-    "current_reference_bands": 425,
+    "current_reference_bands": 427,
     "imported_entry_requirement_claims": 171,
     "unclassified_degree_subdegree_claims": 99,
     "schools_with_imported_progression_claims": 279,
     "schools_with_imported_subject_statistics": 263,
-    "conflicting_band_claims": 4
+    "conflicting_band_claims": 5
   }
 }

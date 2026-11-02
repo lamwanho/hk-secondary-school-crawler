@@ -310,10 +310,25 @@ def main():
     parser.add_argument('--academics',type=Path,default=ROOT/'seed/academic-reference-2026.json')
     parser.add_argument('--academic-verifications',type=Path,default=ROOT/'seed/school-academic-verifications.json')
     parser.add_argument('--reviewed-events',type=Path,default=ROOT/'seed/reviewed-events.json')
+    parser.add_argument('--band-overrides',type=Path,default=ROOT/'seed/band-overrides.json')
     args=parser.parse_args()
     read=lambda p: json.loads(p.read_text(encoding='utf-8-sig'))
     data,coverage=build_roster(read(args.directory),read(args.verified),read(args.chsc),
                              read(args.website_overrides) if args.website_overrides.exists() else {})
+    by_id = {school['id']: school for school in data['schools']}
+    for identity, proof in (read(args.band_overrides) if args.band_overrides.exists() else {}).items():
+        school = by_id.get(identity)
+        if not school or school['name_zh'] != proof['name_zh']:
+            raise ValueError('Unknown or mismatched band override: ' + identity)
+        if proof['display'] not in {'1A','1B','1C','2A','2B','2C','3A','3B','3C','1','2','3'} or not proof.get('updated_date'):
+            raise ValueError('Invalid owner band override: ' + identity)
+        school['reference_band'] = {
+            'display': proof['display'], 'reported': proof['display'], 'year': proof['year'],
+            'source_type': 'user_correction', 'source_url': None,
+            'status': 'User-provided correction (' + proof['updated_date'] + ')',
+            'updated_date': proof['updated_date'],
+            'notes': 'Reference band supplied by the project owner; not an official school classification.',
+            'previous_reference': copy.deepcopy(school.get('reference_band', {}))}
     if args.reviewed_events.exists():
         apply_reviewed_events(data, read(args.reviewed_events))
         data['summary'] = summarize(data['schools'], data['checked_date'])
@@ -327,6 +342,7 @@ def main():
         data['academic_enrichment']={'provenance':seed['provenance'],**academic.summarize(data['schools'])}
         data['summary']=summarize(data['schools'],data['checked_date'])
         coverage['academic_enrichment']=data['academic_enrichment']
+    data['summary'] = summarize(data['schools'], data['checked_date'])
     for path,value in ((args.output,data),(args.coverage,coverage)):
         path.parent.mkdir(parents=True,exist_ok=True)
         path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

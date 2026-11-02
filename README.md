@@ -17,7 +17,7 @@ The existing Study website reads these files directly. No access to a private re
 
 The 28 previously reviewed records and their 2024 onward event history are preserved. The other 450 schools initially have directory facts and explicit historical research gaps. Missing values are unknown, never invented. A successful crawler fetch is not manual verification of dates or registration availability. All detected notices require review before promotion to the reviewed events array.
 
-An owner-supplied academic compilation enriches 439 matched schools: 425 schools now have current unofficial reference bands, 279 have imported progression claims and 263 have school-specific subject-statistic claims. Imported numbers retain actual cohorts, approximation wording and a school-verification-pending status. Entry thresholds, university offers, actual destinations, combined degree/subdegree measures and Hong Kong benchmarks are kept separate. Owner band corrections and all earlier event evidence are preserved. See [academic provenance and audit](docs/ACADEMIC-DATA.md).
+An owner-supplied academic compilation enriches 439 matched schools: 427 schools now have current unofficial reference bands, including the owner additions on 2 November 2026, 279 have imported progression claims and 263 have school-specific subject-statistic claims. Imported numbers retain actual cohorts, approximation wording and a school-verification-pending status. Entry thresholds, university offers, actual destinations, combined degree/subdegree measures and Hong Kong benchmarks are kept separate. Owner band corrections and all earlier event evidence are preserved. See [academic provenance and audit](docs/ACADEMIC-DATA.md).
 
 ## Schedule and zero GitHub charges
 
